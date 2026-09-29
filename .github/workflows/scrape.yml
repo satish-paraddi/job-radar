@@ -8,7 +8,7 @@ on:
       companies:
         description: Comma-separated company slugs to scrape
         required: false
-        default: amazon,apple,google,meta,uber,lyft,salesforce,goldman-sachs,cvs,cvs_wd
+        default: amazon,apple,google,meta,lyft,salesforce,goldman-sachs,cvs,cvs_wd,uber
 
 permissions:
   contents: write
@@ -20,7 +20,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-24.04
-    timeout-minutes: 8
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -52,7 +52,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          COMPANIES: ${{ inputs.companies || 'amazon,apple,google,meta,uber,lyft,salesforce,goldman-sachs,cvs,cvs_wd' }}
+          COMPANIES: ${{ inputs.companies || 'amazon,apple,google,meta,lyft,salesforce,goldman-sachs,cvs,cvs_wd,uber' }}
         run: python scraper.py
 
       - name: Upload scraper diagnostics
