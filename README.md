@@ -28,7 +28,7 @@ A fully automated job-board monitor that scrapes career pages across 10 major te
 | `lyft` | Lyft | CareerPuck public API |
 | `meta` | Meta | GraphQL (`job_search_with_featured_jobs`) |
 | `salesforce` | Salesforce | Workday adapter |
-| `uber` | Uber | REST API (`loadSearchJobsResults`) |
+| `uber` | Uber | jobs.uber.com API (`/api/jobs/search/`, via browser session) |
 
 ## How It Works
 
