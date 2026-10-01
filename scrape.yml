@@ -1,26 +1,26 @@
 name: Multi-Company Jobs Notifier
 
 on:
-  schedule:
+  schedule:                                   # ADDED: run every 10 min
     - cron: '*/10 * * * *'
   workflow_dispatch:
     inputs:
       companies:
         description: Comma-separated company slugs to scrape
         required: false
-        default: amazon,apple,google,meta,lyft,salesforce,goldman-sachs,cvs,cvs_wd,uber,microsoft
+        default: amazon,apple,google,meta     # CHANGED: FAANG only
 
 permissions:
   contents: write
 
-concurrency:
+concurrency:                                  # ADDED: never run two at once
   group: scrape
   cancel-in-progress: false
 
 jobs:
   scrape:
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    timeout-minutes: 8
 
     steps:
       - name: Checkout repository
@@ -52,7 +52,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          COMPANIES: ${{ inputs.companies || 'amazon,apple,google,meta,lyft,salesforce,goldman-sachs,cvs,cvs_wd,uber,microsoft' }}
+          COMPANIES: ${{ inputs.companies || 'amazon,apple,google,meta' }}   # CHANGED
         run: python scraper.py
 
       - name: Upload scraper diagnostics

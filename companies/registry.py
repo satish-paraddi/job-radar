@@ -7,6 +7,7 @@ from companies.goldman_sachs import COMPANY as GOLDMAN_SACHS
 from companies.google import COMPANY as GOOGLE
 from companies.lyft import COMPANY as LYFT
 from companies.meta import COMPANY as META
+from companies.microsoft import COMPANY as MICROSOFT
 from companies.salesforce import COMPANY as SALESFORCE
 from companies.uber import COMPANY as UBER
 
@@ -19,6 +20,7 @@ COMPANIES: dict[str, CompanyDefinition] = {
     GOOGLE.slug: GOOGLE,
     LYFT.slug: LYFT,
     META.slug: META,
+    MICROSOFT.slug: MICROSOFT,
     SALESFORCE.slug: SALESFORCE,
     UBER.slug: UBER,
 }
