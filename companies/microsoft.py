@@ -5,7 +5,9 @@ from microsoft_parser import RESULTS_PER_PAGE, get_total_pages, get_total_result
 
 # Microsoft careers runs on Eightfold (apply.careers.microsoft.com). The results page is
 # backed by a public JSON API that takes the same filters with a "filter_" prefix.
-MICROSOFT_API_URL = "https://apply.careers.microsoft.com/api/pcsx/search"
+MICROSOFT_CAREERS_BASE_URL = "https://apply.careers.microsoft.com"
+MICROSOFT_CAREERS_PAGE_URL = f"{MICROSOFT_CAREERS_BASE_URL}/careers?domain=microsoft.com"
+MICROSOFT_API_URL = f"{MICROSOFT_CAREERS_BASE_URL}/api/pcsx/search"
 MICROSOFT_SEARCH_URL = (
     f"{MICROSOFT_API_URL}"
     "?domain=microsoft.com"
@@ -30,6 +32,11 @@ EXCLUDED_ROLE_KEYWORDS = (
 )
 
 
+REQUEST_DELAY_MS = 1000
+MAX_ATTEMPTS = 3
+RETRY_BACKOFF_MS = 5000
+
+
 def build_search_url(search_url: str, page_num: int) -> str:
     parsed = urlsplit(search_url)
     params = [(k, v) for k, v in parse_qsl(parsed.query, keep_blank_values=True) if k != "start"]
@@ -37,16 +44,37 @@ def build_search_url(search_url: str, page_num: int) -> str:
     return urlunsplit(parsed._replace(query=urlencode(params, quote_via=quote)))
 
 
+async def _ensure_session(page, runtime_config) -> None:
+    # The API answers 429 to requests without the session cookies that the careers
+    # page sets, so load it once per browser context before calling the API.
+    if page.url.startswith(MICROSOFT_CAREERS_BASE_URL):
+        return
+    print(f"[{runtime_config.slug}] Opening {MICROSOFT_CAREERS_PAGE_URL} to establish a session")
+    await page.goto(MICROSOFT_CAREERS_PAGE_URL, wait_until="domcontentloaded", timeout=30000)
+    await page.wait_for_timeout(3000)
+
+
 async def fetch_page_html(page, runtime_config, url: str) -> str:
+    await _ensure_session(page, runtime_config)
     print(f"[{runtime_config.slug}] Loading API: {url}")
-    response = await page.context.request.get(
-        url,
-        headers={"accept": "application/json", "user-agent": "Mozilla/5.0"},
-        timeout=30000,
-    )
-    if not response.ok:
+
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        # context.request shares the browser context's cookies.
+        response = await page.context.request.get(
+            url,
+            headers={"accept": "application/json", "referer": MICROSOFT_CAREERS_PAGE_URL},
+            timeout=30000,
+        )
+        if response.ok:
+            await page.wait_for_timeout(REQUEST_DELAY_MS)
+            return await response.text()
+        if response.status == 429 and attempt < MAX_ATTEMPTS:
+            print(f"[{runtime_config.slug}] Rate limited (429), retrying in {RETRY_BACKOFF_MS * attempt // 1000}s...")
+            await page.wait_for_timeout(RETRY_BACKOFF_MS * attempt)
+            continue
         raise RuntimeError(f"Microsoft API request failed with status {response.status}")
-    return await response.text()
+
+    raise RuntimeError("Microsoft API request failed")
 
 
 COMPANY = CompanyDefinition(
