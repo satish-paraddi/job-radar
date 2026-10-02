@@ -1,0 +1,1800 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "capital-one"
+  },
+  "jobs": {
+    "R1002785": {
+      "first_seen": 1790949825.6304152,
+      "posted": "2026-10-01",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002785",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002785-1"
+    },
+    "R1001322": {
+      "first_seen": 1790949825.630416,
+      "posted": "2026-10-01",
+      "title": "Full Stack Engineer 4 (Global Payment Network)",
+      "job_id": "R1001322",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-Stack-Engineer-4--Global-Payment-Network-_R1001322-1"
+    },
+    "R1001336": {
+      "first_seen": 1790949825.63042,
+      "posted": "2026-10-01",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001336",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Python--AWS-_R1001336-2"
+    },
+    "R1001359": {
+      "first_seen": 1790949825.63042,
+      "posted": "2026-10-01",
+      "title": "Full-stack Engineer 5 ( Python, AWS)",
+      "job_id": "R1001359",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5---Python--AWS-_R1001359-2"
+    },
+    "R1002155": {
+      "first_seen": 1790949825.630421,
+      "posted": "2026-10-01",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002155",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4_R1002155-1"
+    },
+    "R1002590": {
+      "first_seen": 1790949825.630421,
+      "posted": "2026-10-01",
+      "title": "Full Stack Engineer 4 (Java, AWS)",
+      "job_id": "R1002590",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4--Java--AWS-_R1002590-1"
+    },
+    "R1002597": {
+      "first_seen": 1790949825.630422,
+      "posted": "2026-10-01",
+      "title": "Full-stack Engineer 4 (Manager, IC - Python, JavaScript/TypeScript)",
+      "job_id": "R1002597",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC---Python--JavaScript-TypeScript-_R1002597-1"
+    },
+    "R1002701": {
+      "first_seen": 1790949825.630422,
+      "posted": "2026-10-01",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002701",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002701-1"
+    },
+    "R1002589": {
+      "first_seen": 1790949825.630422,
+      "posted": "2026-10-01",
+      "title": "Full Stack Engineer 4 (PySpark)",
+      "job_id": "R1002589",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--PySpark-_R1002589-2"
+    },
+    "R1002712": {
+      "first_seen": 1790949825.630423,
+      "posted": "2026-10-01",
+      "title": "Full Stack Engineer 4 (Python, Java, AWS)",
+      "job_id": "R1002712",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--Java--AWS-_R1002712-1"
+    },
+    "R1002500": {
+      "first_seen": 1790949825.630423,
+      "posted": "2026-10-01",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002500",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1002500-1"
+    },
+    "R1002498": {
+      "first_seen": 1790949825.630424,
+      "posted": "2026-09-30",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1002498",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1002498-1"
+    },
+    "R1002594": {
+      "first_seen": 1790949825.630424,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002594",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1002594-1"
+    },
+    "R1001741": {
+      "first_seen": 1790949825.630424,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001741",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4_R1001741-2"
+    },
+    "R1001156": {
+      "first_seen": 1790949825.630425,
+      "posted": "2026-09-30",
+      "title": "Full Stack Engineer 4 (Go, AWS)",
+      "job_id": "R1001156",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Go--AWS-_R1001156-1"
+    },
+    "R1002661": {
+      "first_seen": 1790949825.630425,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1002661",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5_R1002661-1"
+    },
+    "R1002664": {
+      "first_seen": 1790949825.630425,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002664",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002664"
+    },
+    "R1002665": {
+      "first_seen": 1790949825.6304262,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002665",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1002665-1"
+    },
+    "R1002667": {
+      "first_seen": 1790949825.6304262,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4, Agentic Orchestration",
+      "job_id": "R1002667",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Agentic-Orchestration_R1002667"
+    },
+    "R1002519": {
+      "first_seen": 1790949825.6304262,
+      "posted": "2026-09-30",
+      "title": "Full Stack Engineer 4 (Global Payment Network)",
+      "job_id": "R1002519",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-Stack-Engineer-4_R1002519-1"
+    },
+    "R1001711": {
+      "first_seen": 1790949825.630427,
+      "posted": "2026-09-30",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001711",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001711-2"
+    },
+    "R1001713": {
+      "first_seen": 1790949825.630427,
+      "posted": "2026-09-30",
+      "title": "Full-Stack Engineer 5",
+      "job_id": "R1001713",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-5_R1001713-1"
+    },
+    "R1001799": {
+      "first_seen": 1790949825.6304278,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 5 (GraphDB & API Platform) (Enterprise Platforms Technology)",
+      "job_id": "R1001799",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-5--GraphDB---API-Platform---Enterprise-Platforms-Technology-_R1001799-1"
+    },
+    "R1001707": {
+      "first_seen": 1790949825.6304278,
+      "posted": "2026-09-30",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001707",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001707-1"
+    },
+    "R1002586": {
+      "first_seen": 1790949825.630429,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4 (Python, Typescript, React, AWS)",
+      "job_id": "R1002586",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Full-stack-Engineer-4--Python--Typescript--React--AWS-_R1002586-2"
+    },
+    "R1002548": {
+      "first_seen": 1790949825.630429,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002548",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4_R1002548-1"
+    },
+    "R1002543": {
+      "first_seen": 1790949825.630429,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002543",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002543-1"
+    },
+    "R1002627": {
+      "first_seen": 1790949825.63043,
+      "posted": "2026-09-30",
+      "title": "iOS Mobile Engineer 4",
+      "job_id": "R1002627",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/iOS-Mobile-Engineer-4_R1002627-2"
+    },
+    "R1002012": {
+      "first_seen": 1790949825.63043,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4 (Node, TypeScript, AWS)",
+      "job_id": "R1002012",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Node--TypeScript--AWS-_R1002012-1"
+    },
+    "R1002521": {
+      "first_seen": 1790949825.63043,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002521",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002521-1"
+    },
+    "R1002518": {
+      "first_seen": 1790949825.630431,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002518",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1002518-1"
+    },
+    "R1002591": {
+      "first_seen": 1790949825.630431,
+      "posted": "2026-09-30",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1002591",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-Stack-Engineer-4_R1002591-1"
+    },
+    "R1001999": {
+      "first_seen": 1790949825.630431,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 5 (Python, AWS, Typescript)",
+      "job_id": "R1001999",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Python--AWS--Typescript-_R1001999-1"
+    },
+    "R1002164": {
+      "first_seen": 1790949825.630432,
+      "posted": "2026-09-30",
+      "title": "Full-stack Engineer 5 (Senior Manager, IC - Angular/TypeScript, Python, AWS)",
+      "job_id": "R1002164",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC---Angular-TypeScript--Python--AWS-_R1002164-1"
+    },
+    "R1001575": {
+      "first_seen": 1790949825.630432,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "job_id": "R1001575",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001575-1"
+    },
+    "R1002375": {
+      "first_seen": 1790949825.630432,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002375",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002375-1"
+    },
+    "R1002383": {
+      "first_seen": 1790949825.630433,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1002383",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5_R1002383-1"
+    },
+    "R1002296": {
+      "first_seen": 1790949825.630433,
+      "posted": "2026-09-29",
+      "title": "Full-Stack Engineer 5",
+      "job_id": "R1002296",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-5_R1002296-1"
+    },
+    "R1002402": {
+      "first_seen": 1790949825.630434,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4 (Claude, Node JS, Typescript, Python)",
+      "job_id": "R1002402",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Claude--Node-JS--Typescript--Python-_R1002402-1"
+    },
+    "R1001627": {
+      "first_seen": 1790949825.63044,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001627",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1001627-1"
+    },
+    "R1001644": {
+      "first_seen": 1790949825.63044,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001644",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1001644-1"
+    },
+    "R1001664": {
+      "first_seen": 1790949825.63044,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001664",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001664-1"
+    },
+    "R1002484": {
+      "first_seen": 1790949825.630441,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1002484",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1002484-1"
+    },
+    "R1002477": {
+      "first_seen": 1790949825.630442,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002477",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002477-1"
+    },
+    "R1002186": {
+      "first_seen": 1790949825.630442,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4, Agentic Technology",
+      "job_id": "R1002186",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Agentic-Technology_R1002186-2"
+    },
+    "R1002180": {
+      "first_seen": 1790949825.630442,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 5, Marketing and Messaging Experimentation",
+      "job_id": "R1002180",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-5--Marketing-and-Messaging-Experimentation_R1002180-1"
+    },
+    "R1002189": {
+      "first_seen": 1790949825.630443,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4, Enterprise Platform - Marketing Technology",
+      "job_id": "R1002189",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Enterprise-Platform---Marketing-Technology_R1002189-1"
+    },
+    "R1001922": {
+      "first_seen": 1790949825.630443,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001922",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Full-stack-Engineer-4_R1001922-1"
+    },
+    "R1002416": {
+      "first_seen": 1790949825.630443,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 5 (Java, Spring, Kafka, CI/CD, AI tools, Glue, RDS, DynamoDB) (Enterprise Platforms Technology )",
+      "job_id": "R1002416",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Spring--Kafka--CI-CD--AI-tools--Glue--RDS--DynamoDB---Enterprise-Platforms-Technology--_R1002416-1"
+    },
+    "R1002409": {
+      "first_seen": 1790949825.630444,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4 (AWS, Java & Python) (Enterprise Platforms Technology)",
+      "job_id": "R1002409",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--AWS--Java---Python---Enterprise-Platforms-Technology-_R1002409"
+    },
+    "R1001200": {
+      "first_seen": 1790949825.630444,
+      "posted": "2026-09-29",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001200",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4_R1001200-1"
+    },
+    "R1002417": {
+      "first_seen": 1790949825.630444,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4 (Cloud Operations Resilience Engineering)",
+      "job_id": "R1002417",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4--Cloud-Operations-Resilience-Engineering-_R1002417-1"
+    },
+    "R1002456": {
+      "first_seen": 1790949825.630445,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 5, Agentic Orchestration",
+      "job_id": "R1002456",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5--Agentic-Orchestration_R1002456-1"
+    },
+    "R1002183": {
+      "first_seen": 1790949825.630445,
+      "posted": "2026-09-29",
+      "title": "Full Stack Engineer - 4 (Java, Python, AWS)",
+      "job_id": "R1002183",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer---4--Java--Python--AWS-_R1002183-2"
+    },
+    "R1002368": {
+      "first_seen": 1790949825.6304462,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1002368",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1002368-1"
+    },
+    "R1002411": {
+      "first_seen": 1790949825.6304462,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002411",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002411-1"
+    },
+    "R1002412": {
+      "first_seen": 1790949825.6304462,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 4 (Cyber)",
+      "job_id": "R1002412",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Cyber-_R1002412-1"
+    },
+    "R1002413": {
+      "first_seen": 1790949825.6304471,
+      "posted": "2026-09-29",
+      "title": "Full-stack Engineer 5 (Cyber)",
+      "job_id": "R1002413",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Cyber-_R1002413-1"
+    },
+    "R1001284": {
+      "first_seen": 1790949825.6304471,
+      "posted": "2026-09-29",
+      "title": "Full-Stack Engineer 4 (Golang, AWS)",
+      "job_id": "R1001284",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Golang--AWS-_R1001284-1"
+    },
+    "R1001599": {
+      "first_seen": 1790949825.6304471,
+      "posted": "2026-09-29",
+      "title": "Full-Stack Engineer 4 (Nodejs, Angularjs, Java)",
+      "job_id": "R1001599",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Nodejs--Angularjs--Java-_R1001599-1"
+    },
+    "R1002212": {
+      "first_seen": 1790949825.630448,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002212",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1002212-1"
+    },
+    "R1002302": {
+      "first_seen": 1790949825.630448,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4 (Backend & API Development) (Cloud Operations Resilience Engineering)",
+      "job_id": "R1002302",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4--Backend---API-Development---Cloud-Operations-Resilience-Engineering-_R1002302-1"
+    },
+    "R1001729": {
+      "first_seen": 1790949825.630448,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001729",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1001729-1"
+    },
+    "R1002398": {
+      "first_seen": 1790949825.6304488,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1002398",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1002398-1"
+    },
+    "R1001959": {
+      "first_seen": 1790949825.6304488,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001959",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001959-1"
+    },
+    "R1002391": {
+      "first_seen": 1790949825.6304488,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002391",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002391-1"
+    },
+    "R1002263": {
+      "first_seen": 1790949825.63045,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4 (Go, AWS)",
+      "job_id": "R1002263",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Go--AWS-_R1002263-1"
+    },
+    "R1002264": {
+      "first_seen": 1790949825.63045,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4 (Go, AWS)",
+      "job_id": "R1002264",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Go--AWS-_R1002264-1"
+    },
+    "R1002132": {
+      "first_seen": 1790949825.63045,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4 (Manager, IC - TypeScript/JavaScript, Python/Java | AWS Cloud Infra | Automated Frameworks)",
+      "job_id": "R1002132",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Manager--IC---TypeScript-JavaScript--Python-Java---AWS-Cloud-Infra---Automated-Frameworks-_R1002132-2"
+    },
+    "R1001738": {
+      "first_seen": 1790949825.630451,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001738",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001738-2"
+    },
+    "R1001742": {
+      "first_seen": 1790949825.630451,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001742",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001742-1"
+    },
+    "R1001924": {
+      "first_seen": 1790949825.630451,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 5 (Java, Python, AWS)",
+      "job_id": "R1001924",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Python--AWS-_R1001924-1"
+    },
+    "R1001921": {
+      "first_seen": 1790949825.630451,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 5 (Go, Python, Java)",
+      "job_id": "R1001921",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Go--Python--Java-_R1001921-1"
+    },
+    "R1001970": {
+      "first_seen": 1790949825.630452,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4 (Python, Java, Spring Boot)",
+      "job_id": "R1001970",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4--Python--Java--Spring-Boot-_R1001970-1"
+    },
+    "R1001859": {
+      "first_seen": 1790949825.630452,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001859",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001859-1"
+    },
+    "R1001851": {
+      "first_seen": 1790949825.630452,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001851",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001851-1"
+    },
+    "R1002300": {
+      "first_seen": 1790949825.630453,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4 (Go & Kubernetes) (Enterprise Platforms Technology)",
+      "job_id": "R1002300",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Go---Kubernetes---Cloud-Operations-Resilience-Engineering-_R1002300-1"
+    },
+    "R1001841": {
+      "first_seen": 1790949825.630453,
+      "posted": "2026-09-28",
+      "title": "Front-end Engineer 4",
+      "job_id": "R1001841",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Front-end-Engineer-4_R1001841-1"
+    },
+    "R1001836": {
+      "first_seen": 1790949825.630453,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001836",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001836-2"
+    },
+    "R1002331": {
+      "first_seen": 1790949825.630454,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002331",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1002331-1"
+    },
+    "R1002204": {
+      "first_seen": 1790949825.630454,
+      "posted": "2026-09-28",
+      "title": "Full Stack Engineer - 4 (JavaScript, TypeScript)",
+      "job_id": "R1002204",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer---4--JavaScript--TypeScript-_R1002204-1"
+    },
+    "R1002200": {
+      "first_seen": 1790949825.630454,
+      "posted": "2026-09-28",
+      "title": "Full-stack Engineer 4 (Distributed data & AWS) (Cloud Operations Resilience Engineering)",
+      "job_id": "R1002200",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Distributed-data---AWS---Cloud-Operations-Resilience-Engineering-_R1002200-2"
+    },
+    "R1001878": {
+      "first_seen": 1790949825.630455,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001878",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5_R1001878-1"
+    },
+    "R1001899": {
+      "first_seen": 1790949825.630455,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001899",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1001899-1"
+    },
+    "R1002191": {
+      "first_seen": 1790949825.630455,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002191",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002191-1"
+    },
+    "R1002223": {
+      "first_seen": 1790949825.630456,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002223",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002223-1"
+    },
+    "R1002215": {
+      "first_seen": 1790949825.6304572,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002215",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1002215"
+    },
+    "R1002218": {
+      "first_seen": 1790949825.6304572,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002218",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002218-1"
+    },
+    "R1001635": {
+      "first_seen": 1790949825.6304572,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 5 (Python, Angular)",
+      "job_id": "R1001635",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Python--Angular-_R1001635-1"
+    },
+    "R1001602": {
+      "first_seen": 1790949825.630458,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 4 (DevOps) - Intelligent Foundations and Experiences (IFX)",
+      "job_id": "R1001602",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Full-stack-Engineer-4--DevOps----Intelligent-Foundations-and-Experiences--IFX-_R1001602-1"
+    },
+    "R1001578": {
+      "first_seen": 1790949825.630458,
+      "posted": "2026-09-27",
+      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "job_id": "R1001578",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001578-1"
+    },
+    "R1002206": {
+      "first_seen": 1790949825.630458,
+      "posted": "2026-09-26",
+      "title": "Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology)",
+      "job_id": "R1002206",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5--AI-Platform---Knowledge-Library---Enterprise-Platforms-Technology-_R1002206-1"
+    },
+    "R1001808": {
+      "first_seen": 1790949825.6304588,
+      "posted": "2026-09-25",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001808",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1001808-2"
+    },
+    "R1002047": {
+      "first_seen": 1790949825.6304588,
+      "posted": "2026-09-25",
+      "title": "Full-Stack Engineer 4 (Python, Java, AWS, API, UI) (Enterprise Platforms Technology)",
+      "job_id": "R1002047",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--Java--AWS--API--UI---Enterprise-Platforms-Technology-_R1002047-1"
+    },
+    "R1001974": {
+      "first_seen": 1790949825.6304588,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4 (Java, Spring Boot, AWS, CI/CD) (Enterprise Platforms Technology)",
+      "job_id": "R1001974",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Java--Spring-Boot--AWS--CI-CD---Enterprise-Platforms-Technology-_R1001974-1"
+    },
+    "R1001973": {
+      "first_seen": 1790949825.6304598,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 5 (Java, Spring Boot, AWS, CI/CD) (Enterprise Platforms Technology)",
+      "job_id": "R1001973",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Spring-Boot--AWS--CI-CD---Enterprise-Platforms-Technology-_R1001973-1"
+    },
+    "R1002098": {
+      "first_seen": 1790949825.6304598,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002098",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002098-1"
+    },
+    "R1002174": {
+      "first_seen": 1790949825.630461,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002174",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002174-1"
+    },
+    "R1002202": {
+      "first_seen": 1790949825.630461,
+      "posted": "2026-09-25",
+      "title": "Full Stack Engineer - 4",
+      "job_id": "R1002202",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer---4_R1002202-1"
+    },
+    "R1002055": {
+      "first_seen": 1790949825.630461,
+      "posted": "2026-09-25",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1002055",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1002055-1"
+    },
+    "R1002207": {
+      "first_seen": 1790949825.630462,
+      "posted": "2026-09-25",
+      "title": "Full Stack Engineer 4 (Bank Tech)",
+      "job_id": "R1002207",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4--Bank-Tech-_R1002207"
+    },
+    "R1002176": {
+      "first_seen": 1790949825.630462,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4 (Apache Spark and Java)( Enterprise Platforms Technology)",
+      "job_id": "R1002176",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Apache-Spark-and-Java---Enterprise-Platforms-Technology-_R1002176-1"
+    },
+    "R1002188": {
+      "first_seen": 1790949825.630462,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4 (Apache Spark and Java)( Enterprise Platforms Technology)",
+      "job_id": "R1002188",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Apache-Spark-and-Java---Enterprise-Platforms-Technology-_R1002188-1"
+    },
+    "R1001449": {
+      "first_seen": 1790949825.630466,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001449",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1001449-2"
+    },
+    "R1002137": {
+      "first_seen": 1790949825.6304672,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4 (Remote-Eligible)",
+      "job_id": "R1002137",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Remote-Eligible-_R1002137-1"
+    },
+    "R1002145": {
+      "first_seen": 1790949825.6304672,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 2",
+      "job_id": "R1002145",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-2_R1002145"
+    },
+    "R1002193": {
+      "first_seen": 1790949825.6304681,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4, Enterprise CI/CD (AWS, Python, Groovy)",
+      "job_id": "R1002193",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Enterprise-CI-CD--AWS--Python--Groovy-_R1002193-1"
+    },
+    "R1002007": {
+      "first_seen": 1790949825.6304681,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 5 - Shopping (Remote-Eligible)",
+      "job_id": "R1002007",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5---Shopping--Remote-Eligible-_R1002007"
+    },
+    "R1002009": {
+      "first_seen": 1790949825.6304681,
+      "posted": "2026-09-25",
+      "title": "Mobile Engineer 4 - Android (Remote-Eligible)",
+      "job_id": "R1002009",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-4---Android--Remote-Eligible-_R1002009-1"
+    },
+    "R1002040": {
+      "first_seen": 1790949825.630469,
+      "posted": "2026-09-25",
+      "title": "Front-End Engineer 5 (JavaScript, Angular, React, Node) (Enterprise Platforms Technology)",
+      "job_id": "R1002040",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Front-End-Engineer-5--JavaScript--Angular--React--Node---Enterprise-Platforms-Technology-_R1002040-2"
+    },
+    "R1002136": {
+      "first_seen": 1790949825.630469,
+      "posted": "2026-09-25",
+      "title": "Full Stack Engineer - 4 (JavaScript, TypeScript)",
+      "job_id": "R1002136",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer---4--JavaScript--TypeScript-_R1002136-1"
+    },
+    "R1002118": {
+      "first_seen": 1790949825.630469,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4 (Cloud Native, Microservices & AWS) ( Enterprise Platforms Technology)",
+      "job_id": "R1002118",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Cloud-Native--Microservices---AWS----Enterprise-Platforms-Technology-_R1002118-1"
+    },
+    "R1002119": {
+      "first_seen": 1790949825.630469,
+      "posted": "2026-09-25",
+      "title": "Full-stack Engineer 4 (Cloud Native, Microservices & AWS) ( Enterprise Platforms Technology)",
+      "job_id": "R1002119",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Cloud-Native--Microservices---AWS----Enterprise-Platforms-Technology-_R1002119-1"
+    },
+    "R1002089": {
+      "first_seen": 1790949825.6304698,
+      "posted": "2026-09-25",
+      "title": "Staff Engineer, CI/CD",
+      "job_id": "R1002089",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Staff-Engineer--CI-CD_R1002089-1"
+    },
+    "R1002096": {
+      "first_seen": 1790949825.6304698,
+      "posted": "2026-09-25",
+      "title": "Front-end Engineer 4",
+      "job_id": "R1002096",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Front-end-Engineer-4_R1002096-1"
+    },
+    "R1001659": {
+      "first_seen": 1790949825.630471,
+      "posted": "2026-09-24",
+      "title": "Mobile Engineer 4",
+      "job_id": "R1001659",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Mobile-Engineer-4_R1001659"
+    },
+    "R1002039": {
+      "first_seen": 1790949825.630471,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1002039",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002039-2"
+    },
+    "R1001896": {
+      "first_seen": 1790949825.630471,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)",
+      "job_id": "R1001896",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--People-Tech--GenAI---Agentic-Systems--LangChain--LangGraph-_R1001896-1"
+    },
+    "R1001898": {
+      "first_seen": 1790949825.630472,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)",
+      "job_id": "R1001898",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--People-Tech--GenAI---Agentic-Systems--LangChain--LangGraph-_R1001898"
+    },
+    "R1002073": {
+      "first_seen": 1790949825.630472,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1002073",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4_R1002073-1"
+    },
+    "R1001475": {
+      "first_seen": 1790949825.630472,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001475",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5_R1001475-1"
+    },
+    "R1002070": {
+      "first_seen": 1790949825.630473,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1002070",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1002070-1"
+    },
+    "R1001290": {
+      "first_seen": 1790949825.630473,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 5 (Java, Python, AWS)",
+      "job_id": "R1001290",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Python--AWS-_R1001290-1"
+    },
+    "R1002063": {
+      "first_seen": 1790949825.630473,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 5",
+      "job_id": "R1002063",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-5_R1002063-1"
+    },
+    "R1001937": {
+      "first_seen": 1790949825.630474,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 5",
+      "job_id": "R1001937",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Stack-Engineer-5_R1001937-1"
+    },
+    "R1001696": {
+      "first_seen": 1790949825.630474,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4 (Java, Go, CI/CD, AWS)",
+      "job_id": "R1001696",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Java--Go--CI-CD--AWS-_R1001696-2"
+    },
+    "R1002048": {
+      "first_seen": 1790949825.630474,
+      "posted": "2026-09-24",
+      "title": "Full-Stack Engineer 4 (Python, Java, AWS, CI/CD, GenAI) (Enterprise Platforms Technology)",
+      "job_id": "R1002048",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--Java--AWS--CI-CD--GenAI---Enterprise-Platforms-Technology-_R1002048-2"
+    },
+    "R1002025": {
+      "first_seen": 1790949825.630475,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1002025",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1002025-1"
+    },
+    "R1002031": {
+      "first_seen": 1790949825.630475,
+      "posted": "2026-09-24",
+      "title": "Full-Stack Engineer 4 (Python, GO, API, AWS) (Cloud Operations Resilience Engineering)",
+      "job_id": "R1002031",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--GO--API--AWS---Cloud-Operations-Resilience-Engineering-_R1002031"
+    },
+    "R1001700": {
+      "first_seen": 1790949825.630475,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4 (Java/Python, IaC, AWS)",
+      "job_id": "R1001700",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Java-Python--IaC--AWS-_R1001700-1"
+    },
+    "R1001150": {
+      "first_seen": 1790949825.630476,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 4 (ATM)",
+      "job_id": "R1001150",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4--ATM-_R1001150-1"
+    },
+    "R1001718": {
+      "first_seen": 1790949825.630476,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001718",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001718-1"
+    },
+    "R1001708": {
+      "first_seen": 1790949825.630476,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001708",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001708-1"
+    },
+    "R1001705": {
+      "first_seen": 1790949825.630477,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001705",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001705-1"
+    },
+    "R1001712": {
+      "first_seen": 1790949825.630477,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001712",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001712-1"
+    },
+    "R1001715": {
+      "first_seen": 1790949825.630477,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001715",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001715"
+    },
+    "R1001893": {
+      "first_seen": 1790949825.6304781,
+      "posted": "2026-09-24",
+      "title": "Full-Stack Engineer 4 (Python, GO, API, AWS) (Cloud Operations Resilience Engineering)",
+      "job_id": "R1001893",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--GO--API--AWS---Cloud-Operations-Resilience-Engineering-_R1001893"
+    },
+    "R1001721": {
+      "first_seen": 1790949825.6304781,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001721",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001721"
+    },
+    "R1001722": {
+      "first_seen": 1790949825.6304781,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001722",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-5_R1001722-1"
+    },
+    "R1002002": {
+      "first_seen": 1790949825.630479,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4 (Java, Python, AWS) (Enterprise Platforms Technology)",
+      "job_id": "R1002002",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Java--Python--AWS---Enterprise-Platforms-Technology-_R1002002-1"
+    },
+    "R1001701": {
+      "first_seen": 1790949825.630479,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001701",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001701-1"
+    },
+    "R1001289": {
+      "first_seen": 1790949825.630479,
+      "posted": "2026-09-24",
+      "title": "Full-Stack Engineer 4 (Java, Python, AWS, Spark)",
+      "job_id": "R1001289",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Full-Stack-Engineer-4--Java--Python--AWS--Spark-_R1001289-2"
+    },
+    "R1001881": {
+      "first_seen": 1790949825.6304798,
+      "posted": "2026-09-24",
+      "title": "Full-Stack Engineer 5 (Java, Python, SRE, AWS, AI) (Cloud Operations Resilience Engineering)",
+      "job_id": "R1001881",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-5--Java--Python--SRE--AWS--AI---Cloud-Operations-Resilience-Engineering-_R1001881-1"
+    },
+    "R1001826": {
+      "first_seen": 1790949825.6304798,
+      "posted": "2026-09-24",
+      "title": "Mobile Engineer 5 (iOS, Swift, Bazel) (Enterprise Platforms Technology)",
+      "job_id": "R1001826",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-5--iOS--Swift--Bazel---Enterprise-Platforms-Technology-_R1001826-1"
+    },
+    "R1001776": {
+      "first_seen": 1790949825.6304798,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001776",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1001776-1"
+    },
+    "R1001877": {
+      "first_seen": 1790949825.630604,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001877",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-5_R1001877-1"
+    },
+    "R1001514": {
+      "first_seen": 1790949825.630604,
+      "posted": "2026-09-24",
+      "title": "Full Stack Engineer 4  (Bank Tech)",
+      "job_id": "R1001514",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Stack-Engineer-4---Bank-Tech-_R1001514-1"
+    },
+    "R1001880": {
+      "first_seen": 1790949825.630605,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4 (Java, Python, AWS, Spark)",
+      "job_id": "R1001880",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Java--Python--AWS--Spark-_R1001880-1"
+    },
+    "R1001848": {
+      "first_seen": 1790949825.630605,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001848",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1001848-2"
+    },
+    "R1001616": {
+      "first_seen": 1790949825.630605,
+      "posted": "2026-09-24",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001616",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001616-1"
+    },
+    "R1001545": {
+      "first_seen": 1790949825.6306062,
+      "posted": "2026-09-23",
+      "title": "Full Stack Engineer 4 (Bank Tech)",
+      "job_id": "R1001545",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Bank-Tech-_R1001545-1"
+    },
+    "R1001935": {
+      "first_seen": 1790949825.6306062,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001935",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4_R1001935-2"
+    },
+    "R1001614": {
+      "first_seen": 1790949825.6306062,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 5 (Python, Typescript, React, AWS)",
+      "job_id": "R1001614",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Full-stack-Engineer-5--Python--Typescript--React--AWS-_R1001614-1"
+    },
+    "R1001688": {
+      "first_seen": 1790949825.6306071,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 5  (Typescript/Nodejs/Python)",
+      "job_id": "R1001688",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-5---Typescript-Nodejs-Python-_R1001688-1"
+    },
+    "R1001749": {
+      "first_seen": 1790949825.6306071,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4 (Java, Python, Docker, AI) (Enterprise Platforms Technology)",
+      "job_id": "R1001749",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Java--Python--Docker--AI---Enterprise-Platforms-Technology-_R1001749-1"
+    },
+    "R1001433": {
+      "first_seen": 1790949825.6306071,
+      "posted": "2026-09-23",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001433",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001433-1"
+    },
+    "R1001431": {
+      "first_seen": 1790949825.6306078,
+      "posted": "2026-09-23",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001431",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001431-1"
+    },
+    "R1001843": {
+      "first_seen": 1790949825.6306078,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001843",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001843-1"
+    },
+    "R1001163": {
+      "first_seen": 1790949825.6306078,
+      "posted": "2026-09-23",
+      "title": "Full Stack Engineer 4 - MLOps",
+      "job_id": "R1001163",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4---MLOps_R1001163-1"
+    },
+    "R1001832": {
+      "first_seen": 1790949825.6306088,
+      "posted": "2026-09-23",
+      "title": "Full-Stack Engineer 4 (Risk Tech)",
+      "job_id": "R1001832",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Risk-Tech-_R1001832-1"
+    },
+    "R1001842": {
+      "first_seen": 1790949825.6306088,
+      "posted": "2026-09-23",
+      "title": "Full-Stack Engineer 4 (Risk Tech)",
+      "job_id": "R1001842",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Risk-Tech-_R1001842-1"
+    },
+    "R1001847": {
+      "first_seen": 1790949825.6306088,
+      "posted": "2026-09-23",
+      "title": "Full-Stack Engineer 4 (Risk Tech)",
+      "job_id": "R1001847",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Risk-Tech-_R1001847-1"
+    },
+    "R1001744": {
+      "first_seen": 1790949825.63061,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001744",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001744-1"
+    },
+    "R1001762": {
+      "first_seen": 1790949825.63061,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001762",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001762-1"
+    },
+    "R1001794": {
+      "first_seen": 1790949825.63061,
+      "posted": "2026-09-23",
+      "title": "Full-Stack Engineer 4",
+      "job_id": "R1001794",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1001794-2"
+    },
+    "R1001476": {
+      "first_seen": 1790949825.630611,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001476",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1001476-1"
+    },
+    "R1001470": {
+      "first_seen": 1790949825.630611,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001470",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1001470-1"
+    },
+    "R1001540": {
+      "first_seen": 1790949825.630611,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001540",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001540-1"
+    },
+    "R1001538": {
+      "first_seen": 1790949825.630612,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001538",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001538-1"
+    },
+    "R1001376": {
+      "first_seen": 1790949825.630612,
+      "posted": "2026-09-23",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001376",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4_R1001376"
+    },
+    "R1001646": {
+      "first_seen": 1790949825.630612,
+      "posted": "2026-09-23",
+      "title": "Full-Stack Engineer 5 (Java, Python, Docker, AI) (Enterprise Platforms Technology)",
+      "job_id": "R1001646",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-5--Java--Python--Docker--AI---Enterprise-Platforms-Technology-_R1001646-1"
+    },
+    "R1001783": {
+      "first_seen": 1790949825.630614,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001783",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001783-1"
+    },
+    "R1001825": {
+      "first_seen": 1790949825.630614,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001825",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001825"
+    },
+    "R1001576": {
+      "first_seen": 1790949825.630614,
+      "posted": "2026-09-23",
+      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "job_id": "R1001576",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001576-1"
+    },
+    "R1001428": {
+      "first_seen": 1790949825.630615,
+      "posted": "2026-09-23",
+      "title": "Full-Stack Engineer 4, DevOps (Network Automation)",
+      "job_id": "R1001428",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--DevOps--Network-Automation-_R1001428"
+    },
+    "R1001551": {
+      "first_seen": 1790949825.630615,
+      "posted": "2026-09-22",
+      "title": "Full-Stack Engineer 4  (Java, Spring, DynamoDB, S3, GraphQL, GenAI)",
+      "job_id": "R1001551",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Stack-Engineer-4---Java--Spring--DynamoDB--S3--GraphQL--GenAI-_R1001551-1"
+    },
+    "R1001554": {
+      "first_seen": 1790949825.630615,
+      "posted": "2026-09-22",
+      "title": "Full-Stack Engineer 4 (Python, AWS, Network Automation)",
+      "job_id": "R1001554",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--AWS--Network-Automation-_R1001554-1"
+    },
+    "R1000984": {
+      "first_seen": 1790949825.630616,
+      "posted": "2026-09-22",
+      "title": "Full Stack Engineer 4 (Python, AWS, AI, Snowflake, Databricks)",
+      "job_id": "R1000984",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--Python--AWS--AI--Snowflake--Databricks-_R1000984-1"
+    },
+    "R1001733": {
+      "first_seen": 1790949825.630616,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001733",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001733-1"
+    },
+    "R1001535": {
+      "first_seen": 1790949825.630616,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (IC)",
+      "job_id": "R1001535",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Full-stack-Engineer-4--IC-_R1001535-1"
+    },
+    "R1001508": {
+      "first_seen": 1790949825.6306171,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (IC)",
+      "job_id": "R1001508",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--IC-_R1001508-1"
+    },
+    "R1001687": {
+      "first_seen": 1790949825.6306171,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001687",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001687-1"
+    },
+    "R1001756": {
+      "first_seen": 1790949825.6306171,
+      "posted": "2026-09-22",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001756",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1001756"
+    },
+    "R1001747": {
+      "first_seen": 1790949825.630618,
+      "posted": "2026-09-22",
+      "title": "Full Stack Engineer 5",
+      "job_id": "R1001747",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-5_R1001747-1"
+    },
+    "R1001763": {
+      "first_seen": 1790949825.630618,
+      "posted": "2026-09-22",
+      "title": "Full - Stack Engineer 5 (Remote - Eligible)",
+      "job_id": "R1001763",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full---Stack-Engineer-5--Remote---Eligible-_R1001763-1"
+    },
+    "R1001603": {
+      "first_seen": 1790949825.630618,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 - RiskTech",
+      "job_id": "R1001603",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4---RiskTech_R1001603-1"
+    },
+    "R1001628": {
+      "first_seen": 1790949825.630618,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5 (Nodejs/Go/Angularjs)",
+      "job_id": "R1001628",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Nodejs-Go-Angularjs-_R1001628-1"
+    },
+    "R1001271": {
+      "first_seen": 1790949825.6306188,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5 (Go, TypeScript and Angular)",
+      "job_id": "R1001271",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5--Go--TypeScript-and-Angular-_R1001271-1"
+    },
+    "R1001276": {
+      "first_seen": 1790949825.6306188,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (Python, Java)",
+      "job_id": "R1001276",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Python--Java-_R1001276-1"
+    },
+    "R1001592": {
+      "first_seen": 1790949825.63062,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001592",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001592-1"
+    },
+    "R1001609": {
+      "first_seen": 1790949825.63062,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "job_id": "R1001609",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001609-1"
+    },
+    "R1001479": {
+      "first_seen": 1790949825.63062,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5 (Golang, Java, AWS)",
+      "job_id": "R1001479",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5--Golang--Java--AWS-_R1001479-1"
+    },
+    "R1001474": {
+      "first_seen": 1790949825.630621,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5 (Java, Scala, AWS)",
+      "job_id": "R1001474",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Scala--AWS-_R1001474-1"
+    },
+    "R1001596": {
+      "first_seen": 1790949825.630621,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "job_id": "R1001596",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001596-1"
+    },
+    "R1001580": {
+      "first_seen": 1790949825.630621,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "job_id": "R1001580",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001580-1"
+    },
+    "R1001453": {
+      "first_seen": 1790949825.630622,
+      "posted": "2026-09-22",
+      "title": "Full Stack Engineer 4, Enterprise CI/CD (AWS, Python, Groovy)",
+      "job_id": "R1001453",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--Enterprise-CI-CD--AWS--Python--Groovy-_R1001453-1"
+    },
+    "R1001629": {
+      "first_seen": 1790949825.630622,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001629",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1001629-1"
+    },
+    "R1001331": {
+      "first_seen": 1790949825.630622,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001331",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001331-3"
+    },
+    "R1001587": {
+      "first_seen": 1790949825.6306229,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001587",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001587-1"
+    },
+    "R1001238": {
+      "first_seen": 1790949825.6306229,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001238",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001238-1"
+    },
+    "R1001462": {
+      "first_seen": 1790949825.6306229,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001462",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1001462"
+    },
+    "R1001273": {
+      "first_seen": 1790949825.6306229,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (React, TypeScript, AWS)",
+      "job_id": "R1001273",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--React--TypeScript--AWS-_R1001273-1"
+    },
+    "R1001457": {
+      "first_seen": 1790949825.630624,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001457",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001457-1"
+    },
+    "R1001466": {
+      "first_seen": 1790949825.630624,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001466",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001466-1"
+    },
+    "R1001468": {
+      "first_seen": 1790949825.630624,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001468",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001468-1"
+    },
+    "R1001274": {
+      "first_seen": 1790949825.630625,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (Python, Typescript)",
+      "job_id": "R1001274",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Python--Typescript-_R1001274-2"
+    },
+    "R1001287": {
+      "first_seen": 1790949825.630625,
+      "posted": "2026-09-22",
+      "title": "Mobile Engineer 4 (Android, Kotlin, JetPack Compose)",
+      "job_id": "R1001287",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-4--Android--Kotlin--JetPack-Compose-_R1001287-1"
+    },
+    "R1001278": {
+      "first_seen": 1790949825.630625,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (GoLang)",
+      "job_id": "R1001278",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4--GoLang-_R1001278-1"
+    },
+    "R1001272": {
+      "first_seen": 1790949825.630626,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (JavaScript, React)",
+      "job_id": "R1001272",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4--Java--Go-_R1001272-1"
+    },
+    "R1001486": {
+      "first_seen": 1790949825.630626,
+      "posted": "2026-09-22",
+      "title": "Mobile Engineer 4",
+      "job_id": "R1001486",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Mobile-Engineer-4_R1001486-1"
+    },
+    "R1001309": {
+      "first_seen": 1790949825.630626,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (Go, AWS)",
+      "job_id": "R1001309",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Go--AWS-_R1001309-1"
+    },
+    "R1001292": {
+      "first_seen": 1790949825.6306272,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5 (Go/Java, Angular, AWS)",
+      "job_id": "R1001292",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5--Go-Java--Angular--AWS-_R1001292-1"
+    },
+    "R1001314": {
+      "first_seen": 1790949825.6306272,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (Golang, Python, Java, AWS)",
+      "job_id": "R1001314",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Golang--Python--Java--AWS-_R1001314-1"
+    },
+    "R1001613": {
+      "first_seen": 1790949825.630628,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001613",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001613-1"
+    },
+    "R1001291": {
+      "first_seen": 1790949825.630628,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5 (Golang, AWS)",
+      "job_id": "R1001291",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Golang--AWS-_R1001291-1"
+    },
+    "R1001325": {
+      "first_seen": 1790949825.630628,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (Scala, React, AWS)",
+      "job_id": "R1001325",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Scala--React--AWS-_R1001325-1"
+    },
+    "R1001321": {
+      "first_seen": 1790949825.630628,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (Scala, React, AWS)",
+      "job_id": "R1001321",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Scala--React--AWS-_R1001321-1"
+    },
+    "R1001303": {
+      "first_seen": 1790949825.630629,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 (Java, Scala, AWS)",
+      "job_id": "R1001303",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Java--Scala--AWS-_R1001303-1"
+    },
+    "R1001308": {
+      "first_seen": 1790949825.630629,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5 - Shopping (Remote-Eligible)",
+      "job_id": "R1001308",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5---Shopping--Remote-Eligible-_R1001308-1"
+    },
+    "R1001310": {
+      "first_seen": 1790949825.630629,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4 - Shopping (Remote-Eligible)",
+      "job_id": "R1001310",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4---Shopping--Remote-Eligible-_R1001310"
+    },
+    "R1001320": {
+      "first_seen": 1790949825.6306298,
+      "posted": "2026-09-22",
+      "title": "Mobile Engineer 4 - Android (Remote-Eligible)",
+      "job_id": "R1001320",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-4---Android--Remote-Eligible-_R1001320-1"
+    },
+    "R1001530": {
+      "first_seen": 1790949825.6306298,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 5 (Golang, Python, GenAI) (Cloud Operations Resilience Engineering)",
+      "job_id": "R1001530",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Golang--Python--GenAI---Cloud-Operations-Resilience-Engineering-_R1001530-1"
+    },
+    "R1001415": {
+      "first_seen": 1790949825.630631,
+      "posted": "2026-09-22",
+      "title": "Full-Stack Engineer 4 (Automation Quality Engineer)",
+      "job_id": "R1001415",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-Stack-Engineer-4--Automation-Quality-Engineer-_R1001415-1"
+    },
+    "R1001525": {
+      "first_seen": 1790949825.630631,
+      "posted": "2026-09-22",
+      "title": "Mobile Engineer 5",
+      "job_id": "R1001525",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-5_R1001525-1"
+    },
+    "R1001528": {
+      "first_seen": 1790949825.630631,
+      "posted": "2026-09-22",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001528",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001528-1"
+    },
+    "R1001265": {
+      "first_seen": 1790949825.630632,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001265",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1001265-1"
+    },
+    "R1001465": {
+      "first_seen": 1790949825.630632,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4 (Typescript, Vue, AWS)",
+      "job_id": "R1001465",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Typescript--Vue--AWS-_R1001465-1"
+    },
+    "R1001463": {
+      "first_seen": 1790949825.630632,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4 (Typescript, Vue, AWS)",
+      "job_id": "R1001463",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Typescript--Vue--AWS-_R1001463-1"
+    },
+    "R1001460": {
+      "first_seen": 1790949825.6306329,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4 (Java, Python, JavaScript)",
+      "job_id": "R1001460",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Java--Python--JavaScript-_R1001460-1"
+    },
+    "R1001456": {
+      "first_seen": 1790949825.6306329,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4 (Java, Python, AWS)",
+      "job_id": "R1001456",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Java--Python--AWS-_R1001456-1"
+    },
+    "R1001297": {
+      "first_seen": 1790949825.630634,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)",
+      "job_id": "R1001297",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--People-Tech--GenAI---Agentic-Systems--LangChain--LangGraph-_R1001297-1"
+    },
+    "R1001444": {
+      "first_seen": 1790949825.630634,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4, Enterprise CI/CD (AWS, Python, Groovy)",
+      "job_id": "R1001444",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--Enterprise-CI-CD--AWS--Python--Groovy-_R1001444-1"
+    },
+    "R1001437": {
+      "first_seen": 1790949825.630634,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4, Enterprise CI/CD (AWS, Python, Groovy",
+      "job_id": "R1001437",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--Enterprise-CI-CD--AWS--Python--Groovy_R1001437"
+    },
+    "R1001414": {
+      "first_seen": 1790949825.630635,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001414",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1001414-1"
+    },
+    "R1001417": {
+      "first_seen": 1790949825.630635,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001417",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001417-2"
+    },
+    "R1001410": {
+      "first_seen": 1790949825.630635,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001410",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4_R1001410-1"
+    },
+    "R1001180": {
+      "first_seen": 1790949825.630636,
+      "posted": "2026-09-21",
+      "title": "Capital One Shopping Tech,  Full - stack Engineer 5 (Remote - Eligible)",
+      "job_id": "R1001180",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Capital-One-Shopping-Tech---Full---stack-Engineer-5--Remote---Eligible-_R1001180-1"
+    },
+    "R1001434": {
+      "first_seen": 1790949825.630636,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001434",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1001434-1"
+    },
+    "R1001416": {
+      "first_seen": 1790949825.630636,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4 (Java, AWS)",
+      "job_id": "R1001416",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Java--AWS-_R1001416-1"
+    },
+    "R1001286": {
+      "first_seen": 1790949825.6306372,
+      "posted": "2026-09-21",
+      "title": "Full-Stack Engineer 4 (Python, Java, AWS)",
+      "job_id": "R1001286",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--Java--AWS-_R1001286"
+    },
+    "R1001304": {
+      "first_seen": 1790949825.6306372,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001304",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001304-2"
+    },
+    "R1001313": {
+      "first_seen": 1790949825.6306372,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 5 - Shopping (Remote-Eligible)",
+      "job_id": "R1001313",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5---Shopping--Remote-Eligible-_R1001313-1"
+    },
+    "R1001356": {
+      "first_seen": 1790949825.6306381,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001356",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1001356-2"
+    },
+    "R1001263": {
+      "first_seen": 1790949825.6306381,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4 (Java, Scala, AWS)",
+      "job_id": "R1001263",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Java--Scala--AWS-_R1001263-1"
+    },
+    "R1001306": {
+      "first_seen": 1790949825.6306381,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001306",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1001306-1"
+    },
+    "R1001139": {
+      "first_seen": 1790949825.630639,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001139",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001139-2"
+    },
+    "R1001262": {
+      "first_seen": 1790949825.630639,
+      "posted": "2026-09-21",
+      "title": "Front-end Engineer 4",
+      "job_id": "R1001262",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Front-end-Engineer-4_R1001262-2"
+    },
+    "R1001188": {
+      "first_seen": 1790949825.630639,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001188",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1001188-1"
+    },
+    "R1001195": {
+      "first_seen": 1790949825.63064,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001195",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1001195-1"
+    },
+    "R1001301": {
+      "first_seen": 1790949825.63064,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 5",
+      "job_id": "R1001301",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1001301-2"
+    },
+    "R1001232": {
+      "first_seen": 1790949825.630641,
+      "posted": "2026-09-21",
+      "title": "Full-stack Engineer 4",
+      "job_id": "R1001232",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Full-stack-Engineer-4_R1001232-1"
+    },
+    "R1001142": {
+      "first_seen": 1790949825.630641,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 5 (ATM)",
+      "job_id": "R1001142",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-5--ATM-_R1001142-1"
+    },
+    "R1001154": {
+      "first_seen": 1790949825.630641,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001154",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001154-2"
+    },
+    "R1001158": {
+      "first_seen": 1790949825.630642,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 4",
+      "job_id": "R1001158",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001158-1"
+    },
+    "R1001167": {
+      "first_seen": 1790949825.630642,
+      "posted": "2026-09-21",
+      "title": "Full Stack Engineer 5",
+      "job_id": "R1001167",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-Stack-Engineer-5_R1001167-1"
+    },
+    "R1001176": {
+      "first_seen": 1790949825.630642,
+      "posted": "2026-09-21",
+      "title": "Full- stack Engineer 4 - Capital One Shopping Tech (Categories Team) (Remote - Eligible)",
+      "job_id": "R1001176",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full--stack-Engineer-4---Capital-One-Shopping-Tech--Categories-Team---Remote---Eligible-_R1001176"
+    }
+  }
+}

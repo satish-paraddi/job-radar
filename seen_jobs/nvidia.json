@@ -1,0 +1,1051 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "nvidia"
+  },
+  "jobs": {
+    "JR2001781": {
+      "first_seen": 1790949808.135978,
+      "posted": "2026-10-01",
+      "title": "PCB Design Layout Engineer",
+      "job_id": "JR2001781",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCB-Design-Layout-Engineer_JR2001781"
+    },
+    "JR2020277": {
+      "first_seen": 1790949808.135981,
+      "posted": "2026-10-01",
+      "title": "PCB Design Layout Engineer",
+      "job_id": "JR2020277",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCB-Design-Layout-Engineer_JR2020277"
+    },
+    "JR2011740": {
+      "first_seen": 1790949808.135982,
+      "posted": "2026-10-01",
+      "title": "PCB Design Layout Engineer",
+      "job_id": "JR2011740",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCB-Design-Layout-Engineer_JR2011740"
+    },
+    "JR2020746": {
+      "first_seen": 1790949808.135982,
+      "posted": "2026-10-01",
+      "title": "PCB Library Engineer",
+      "job_id": "JR2020746",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCB-Library-Engineer_JR2020746"
+    },
+    "JR2017083": {
+      "first_seen": 1790949808.135983,
+      "posted": "2026-10-01",
+      "title": "Systems Software Engineer - New College Grad 2026",
+      "job_id": "JR2017083",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083"
+    },
+    "JR2024087": {
+      "first_seen": 1790949808.1359842,
+      "posted": "2026-10-01",
+      "title": "Systems Software Engineer - AI and Cloud",
+      "job_id": "JR2024087",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud_JR2024087"
+    },
+    "JR2019840": {
+      "first_seen": 1790949808.135985,
+      "posted": "2026-10-01",
+      "title": "ASIC Design Engineer - Hardware",
+      "job_id": "JR2019840",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer---Hardware_JR2019840"
+    },
+    "JR2025102": {
+      "first_seen": 1790949808.1359859,
+      "posted": "2026-10-01",
+      "title": "Head of Infrastructure Security Engineering - EDA Clusters",
+      "job_id": "JR2025102",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Head-of-Infrastructure-Security-Engineering---EDA-Clusters_JR2025102"
+    },
+    "JR2026819": {
+      "first_seen": 1790949808.1359859,
+      "posted": "2026-09-30",
+      "title": "System Software Engineer - Robotics Simulation",
+      "job_id": "JR2026819",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Robotics-Simulation_JR2026819"
+    },
+    "JR2026351": {
+      "first_seen": 1790949808.135987,
+      "posted": "2026-09-30",
+      "title": "Graphics System Software Engineer",
+      "job_id": "JR2026351",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphics-System-Software-Engineer_JR2026351"
+    },
+    "JR2011879": {
+      "first_seen": 1790949808.135988,
+      "posted": "2026-09-30",
+      "title": "System Design Engineer - New College Grad 2026",
+      "job_id": "JR2011879",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879"
+    },
+    "JR2026245": {
+      "first_seen": 1790949808.13599,
+      "posted": "2026-09-30",
+      "title": "Growth Engineer, Developer Platform",
+      "job_id": "JR2026245",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Growth-Engineer--Developer-Platform_JR2026245-1"
+    },
+    "JR2026477": {
+      "first_seen": 1790949808.13599,
+      "posted": "2026-09-29",
+      "title": "Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026",
+      "job_id": "JR2026477",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477"
+    },
+    "JR2013743": {
+      "first_seen": 1790949808.135991,
+      "posted": "2026-09-29",
+      "title": "GPU/SOC Low-Power Feature Architect",
+      "job_id": "JR2013743",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HSIO-Functional-and-Power-Management-Engineer_JR2013743"
+    },
+    "JR2021768": {
+      "first_seen": 1790949808.135992,
+      "posted": "2026-09-29",
+      "title": "GPU PCIe and Boot Architect - New College Grad 2026",
+      "job_id": "JR2021768",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2026_JR2021768"
+    },
+    "JR2025619": {
+      "first_seen": 1790949808.135992,
+      "posted": "2026-09-29",
+      "title": "Data and Platform Engineer",
+      "job_id": "JR2025619",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-and-Platform-Engineer_JR2025619"
+    },
+    "JR2026396": {
+      "first_seen": 1790949808.135992,
+      "posted": "2026-09-29",
+      "title": "System Software Engineer - GPU Power and Performance Management",
+      "job_id": "JR2026396",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-Power-and-Performance-Management_JR2026396"
+    },
+    "JR2026588": {
+      "first_seen": 1790949808.1359942,
+      "posted": "2026-09-29",
+      "title": "Tegra System Software Engineer",
+      "job_id": "JR2026588",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2026588"
+    },
+    "JR2020918": {
+      "first_seen": 1790949808.135995,
+      "posted": "2026-09-29",
+      "title": "HPC Middleware Developer",
+      "job_id": "JR2020918",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HPC-Middleware-Developer_JR2020918"
+    },
+    "JR2022831": {
+      "first_seen": 1790949808.135995,
+      "posted": "2026-09-29",
+      "title": "Software Engineer, CUDA Deep Learning Systems",
+      "job_id": "JR2022831",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CUDA-Deep-Learning-Systems_JR2022831"
+    },
+    "JR2019248": {
+      "first_seen": 1790949808.1359959,
+      "posted": "2026-09-29",
+      "title": "Software Engineer, DGX Cloud AI Infrastructure",
+      "job_id": "JR2019248",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure_JR2019248"
+    },
+    "JR2013337": {
+      "first_seen": 1790949808.1359968,
+      "posted": "2026-09-29",
+      "title": "Mixed Signal Design Validation Engineer",
+      "job_id": "JR2013337",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Validation-Engineer_JR2013337"
+    },
+    "JR2026525": {
+      "first_seen": 1790949808.135998,
+      "posted": "2026-09-29",
+      "title": "Security Engineer, GPU Kernel Driver",
+      "job_id": "JR2026525",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Engineer--GPU-Kernel-Driver_JR2026525"
+    },
+    "JR2020906": {
+      "first_seen": 1790949808.135998,
+      "posted": "2026-09-29",
+      "title": "Software Linux Engineer - Installation and Packaging",
+      "job_id": "JR2020906",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Linux-Engineer---Installation-and-Packaging_JR2020906"
+    },
+    "JR2015873": {
+      "first_seen": 1790949808.135999,
+      "posted": "2026-09-29",
+      "title": "ASIC Verification Engineer",
+      "job_id": "JR2015873",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer_JR2015873"
+    },
+    "JR2014178": {
+      "first_seen": 1790949808.135999,
+      "posted": "2026-09-29",
+      "title": "HPC Operations Engineer",
+      "job_id": "JR2014178",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HPC-Operations-Engineer_JR2014178"
+    },
+    "JR2021653": {
+      "first_seen": 1790949808.136,
+      "posted": "2026-09-29",
+      "title": "Package Design Methodology Engineer",
+      "job_id": "JR2021653",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Package-Design-Methodology-Engineer_JR2021653"
+    },
+    "JR2011122": {
+      "first_seen": 1790949808.136001,
+      "posted": "2026-09-28",
+      "title": "Platform Software Validation Engineer - SDET",
+      "job_id": "JR2011122",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122"
+    },
+    "JR2026277": {
+      "first_seen": 1790949808.136001,
+      "posted": "2026-09-28",
+      "title": "ASIC Design Engineer - New College Grad 2027",
+      "job_id": "JR2026277",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277"
+    },
+    "JR2021605": {
+      "first_seen": 1790949808.136002,
+      "posted": "2026-09-28",
+      "title": "System Software Engineer - GeForce NOW Low Latency Streaming",
+      "job_id": "JR2021605",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GeForce-NOW-Low-Latency-Streaming_JR2021605"
+    },
+    "JR2026341": {
+      "first_seen": 1790949808.136002,
+      "posted": "2026-09-28",
+      "title": "ASIC Verification Engineer, Memory Management - New College Grad 2027",
+      "job_id": "JR2026341",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer--Memory-Management---New-College-Grad-2027_JR2026341"
+    },
+    "JR2026343": {
+      "first_seen": 1790949808.1360059,
+      "posted": "2026-09-28",
+      "title": "ASIC Verification Engineer - New College Grad 2027",
+      "job_id": "JR2026343",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343"
+    },
+    "JR2025693": {
+      "first_seen": 1790949808.1360059,
+      "posted": "2026-09-28",
+      "title": "Mixed Signal Design Engineer - New College Grad 2026",
+      "job_id": "JR2025693",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693"
+    },
+    "JR2026536": {
+      "first_seen": 1790949808.1360068,
+      "posted": "2026-09-28",
+      "title": "GPU SW Security Engineer",
+      "job_id": "JR2026536",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-SW-Security-Engineer_JR2026536"
+    },
+    "JR2026538": {
+      "first_seen": 1790949808.1360068,
+      "posted": "2026-09-28",
+      "title": "AI Software Engineer, Lightspeed Studios",
+      "job_id": "JR2026538",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/AI-Software-Engineer--Lightspeed-Studios_JR2026538"
+    },
+    "JR2014458": {
+      "first_seen": 1790949808.136008,
+      "posted": "2026-09-23",
+      "title": "Low-Power Feature Validation & Bring-Up Engineer",
+      "job_id": "JR2014458",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Post-Silicon-Low-Power-Integration-Engineer_JR2014458"
+    },
+    "JR2020424": {
+      "first_seen": 1790949808.136009,
+      "posted": "2026-09-23",
+      "title": "System Verification Co-Design Engineer - Speed and Rel",
+      "job_id": "JR2020424",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Verification-Co-Design-Engineer---Speed-and-Rel_JR2020424"
+    },
+    "JR2026387": {
+      "first_seen": 1790949808.13601,
+      "posted": "2026-09-23",
+      "title": "Security Architect - New College Grad 2026",
+      "job_id": "JR2026387",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1"
+    },
+    "JR2011622": {
+      "first_seen": 1790949808.1360111,
+      "posted": "2026-09-23",
+      "title": "System Software Engineer, Profiler - GPU",
+      "job_id": "JR2011622",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/System-Software-Engineer--Profiler---GPU_JR2011622"
+    },
+    "JR2024551": {
+      "first_seen": 1790949808.136012,
+      "posted": "2026-09-21",
+      "title": "Data Application Engineer, Enterprise Data Management",
+      "job_id": "JR2024551",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Application-Engineer--Enterprise-Data-Management_JR2024551"
+    },
+    "JR2025580": {
+      "first_seen": 1790949808.1360152,
+      "posted": "2026-09-21",
+      "title": "ASIC Design Engineer \u2013 Clocks IP",
+      "job_id": "JR2025580",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---Clocks-IP_JR2025580"
+    },
+    "JR2022280": {
+      "first_seen": 1790949808.1360152,
+      "posted": "2026-09-21",
+      "title": "ASIC Verification Engineer",
+      "job_id": "JR2022280",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer_JR2022280"
+    },
+    "JR2023733": {
+      "first_seen": 1790949808.136016,
+      "posted": "2026-09-21",
+      "title": "CPU Design Methodology Engineer",
+      "job_id": "JR2023733",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Methodology-Engineer_JR2023733"
+    },
+    "JR2019987": {
+      "first_seen": 1790949808.1360168,
+      "posted": "2026-09-17",
+      "title": "Data Center Power Test Architect",
+      "job_id": "JR2019987",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Center-Power-Test-Architect_JR2019987"
+    },
+    "JR2025483": {
+      "first_seen": 1790949808.1360168,
+      "posted": "2026-09-17",
+      "title": "Optical Package Test Engineer",
+      "job_id": "JR2025483",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Optical-Package-Test-Engineer_JR2025483"
+    },
+    "JR2024918": {
+      "first_seen": 1790949808.136018,
+      "posted": "2026-09-16",
+      "title": "System Software Engineer, Performance - CUDA Driver",
+      "job_id": "JR2024918",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Performance---CUDA-Driver_JR2024918"
+    },
+    "JR2025748": {
+      "first_seen": 1790949808.1360278,
+      "posted": "2026-09-16",
+      "title": "Performance Engineer",
+      "job_id": "JR2025748",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer_JR2025748"
+    },
+    "JR2021476": {
+      "first_seen": 1790949808.136029,
+      "posted": "2026-09-16",
+      "title": "ECAD PCB Tools Developer",
+      "job_id": "JR2021476",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ECAD-PCB-Tools-Developer_JR2021476"
+    },
+    "JR2022452": {
+      "first_seen": 1790949808.136029,
+      "posted": "2026-09-16",
+      "title": "Software and System Architect",
+      "job_id": "JR2022452",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-and-System-Architect_JR2022452"
+    },
+    "JR2015949": {
+      "first_seen": 1790949808.13603,
+      "posted": "2026-09-16",
+      "title": "Embedded Software Engineer - DPU Platform",
+      "job_id": "JR2015949",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1"
+    },
+    "JR2025806": {
+      "first_seen": 1790949808.136031,
+      "posted": "2026-09-15",
+      "title": "System Architect",
+      "job_id": "JR2025806",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Architect_JR2025806-1"
+    },
+    "JR2025501": {
+      "first_seen": 1790949808.136031,
+      "posted": "2026-09-15",
+      "title": "Datacenter Product Architect",
+      "job_id": "JR2025501",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Product-Architect_JR2025501"
+    },
+    "JR2023340": {
+      "first_seen": 1790949808.136032,
+      "posted": "2026-09-15",
+      "title": "System Software Engineer - Trusted Firmware",
+      "job_id": "JR2023340",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Trusted-Firmware_JR2023340"
+    },
+    "JR2025694": {
+      "first_seen": 1790949808.136032,
+      "posted": "2026-09-15",
+      "title": "Custom SOC IP Verification Engineer",
+      "job_id": "JR2025694",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Custom-SOC-IP-Verification-Engineer_JR2025694"
+    },
+    "JR2020783": {
+      "first_seen": 1790949808.136033,
+      "posted": "2026-09-14",
+      "title": "Custom SOC IP Verification Engineer",
+      "job_id": "JR2020783",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Custom-SOC-IP-Verification-Engineer_JR2020783"
+    },
+    "JR2025475": {
+      "first_seen": 1790949808.136034,
+      "posted": "2026-09-14",
+      "title": "GPU System Performance Architect",
+      "job_id": "JR2025475",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-Performance-Architect_JR2025475"
+    },
+    "JR2021887": {
+      "first_seen": 1790949808.136035,
+      "posted": "2026-09-11",
+      "title": "Security Research Engineer, AI Safety and Security Engineering",
+      "job_id": "JR2021887",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Research-Engineer--AI-Safety-and-Security-Engineering_JR2021887"
+    },
+    "JR2018693": {
+      "first_seen": 1790949808.136035,
+      "posted": "2026-09-11",
+      "title": "Senior C++ Software Engineer - Infrastructure Tools",
+      "job_id": "JR2018693",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-C---Software-Engineer---Infrastructure-Tools_JR2018693"
+    },
+    "JR2017169": {
+      "first_seen": 1790949808.1360362,
+      "posted": "2026-09-10",
+      "title": "AI GPU Power Architect - New College Grad 2026",
+      "job_id": "JR2017169",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169"
+    },
+    "JR2005386": {
+      "first_seen": 1790949808.1360362,
+      "posted": "2026-09-09",
+      "title": "EDA Workflow Optimization Engineer",
+      "job_id": "JR2005386",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/EDA-Workflow-Optimization-Engineer_JR2005386"
+    },
+    "JR2025219": {
+      "first_seen": 1790949808.136037,
+      "posted": "2026-09-08",
+      "title": "ASIC Design Engineer, Tools and Methodology Development",
+      "job_id": "JR2025219",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer--Tools-and-Methodology-Development_JR2025219"
+    },
+    "JR2013587": {
+      "first_seen": 1790949808.136037,
+      "posted": "2026-09-04",
+      "title": "Notebook Hardware Application Engineer",
+      "job_id": "JR2013587",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Notebook-Hardware-Application-Engineer_JR2013587"
+    },
+    "JR2013593": {
+      "first_seen": 1790949808.1360378,
+      "posted": "2026-09-04",
+      "title": "Hardware Systems Application Engineer - CSP",
+      "job_id": "JR2013593",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Systems-Application-Engineer---CSP_JR2013593"
+    },
+    "JR1968313": {
+      "first_seen": 1790949808.1360378,
+      "posted": "2026-09-04",
+      "title": "System Design Engineer",
+      "job_id": "JR1968313",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer_JR1968313"
+    },
+    "JR2022543": {
+      "first_seen": 1790949808.136039,
+      "posted": "2026-09-04",
+      "title": "Physical Design Engineer, Synthesis and Implementation",
+      "job_id": "JR2022543",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Physical-Design-Engineer--Synthesis-and-Implementation_JR2022543-1"
+    },
+    "JR2019756": {
+      "first_seen": 1790949808.136039,
+      "posted": "2026-09-03",
+      "title": "SoC Product Architect, Memory Ecosystem",
+      "job_id": "JR2019756",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Product-Architect--Memory-Ecosystem_JR2019756"
+    },
+    "JR2021574": {
+      "first_seen": 1790949808.13604,
+      "posted": "2026-09-03",
+      "title": "System Software Engineer - Performance Verification Infrastructure",
+      "job_id": "JR2021574",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance-Verification-Infrastructure_JR2021574"
+    },
+    "JR2018237": {
+      "first_seen": 1790949808.13604,
+      "posted": "2026-09-02",
+      "title": "GPU Simulation System Software Engineer",
+      "job_id": "JR2018237",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Simulation-System-Software-Engineer_JR2018237"
+    },
+    "JR2024713": {
+      "first_seen": 1790949808.136041,
+      "posted": "",
+      "title": "Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
+      "job_id": "JR2024713",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713"
+    },
+    "JR2021915": {
+      "first_seen": 1790949808.136041,
+      "posted": "",
+      "title": "Intellectual Property Security Engineer",
+      "job_id": "JR2021915",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Intellectual-Property-Security-Engineer_JR2021915"
+    },
+    "JR2007175": {
+      "first_seen": 1790949808.1360419,
+      "posted": "",
+      "title": "CAD Tools Developer",
+      "job_id": "JR2007175",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CAD-Tools-Developer_JR2007175"
+    },
+    "JR2024580": {
+      "first_seen": 1790949808.1360419,
+      "posted": "",
+      "title": "Compiler Verification Engineer, Compute Performance \u2013 GPU",
+      "job_id": "JR2024580",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Compiler-Verification-Engineer--Compute-Performance---GPU_JR2024580"
+    },
+    "JR2021114": {
+      "first_seen": 1790949808.136043,
+      "posted": "",
+      "title": "Senior Software Engineer, CUDA C++ Core Libraries",
+      "job_id": "JR2021114",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-C---Core-Libraries_JR2021114"
+    },
+    "JR2024651": {
+      "first_seen": 1790949808.136043,
+      "posted": "",
+      "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
+      "job_id": "JR2024651",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651"
+    },
+    "JR2021950": {
+      "first_seen": 1790949808.136044,
+      "posted": "",
+      "title": "ATE Test Engineer",
+      "job_id": "JR2021950",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2021950"
+    },
+    "JR2022767": {
+      "first_seen": 1790949808.136044,
+      "posted": "",
+      "title": "Test Methodology Engineer",
+      "job_id": "JR2022767",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Test-Methodology-Engineer_JR2022767"
+    },
+    "JR2011631": {
+      "first_seen": 1790949808.136045,
+      "posted": "",
+      "title": "Cell Modeling and Verification Engineer - New College Grad 2026",
+      "job_id": "JR2011631",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631"
+    },
+    "JR2020416": {
+      "first_seen": 1790949808.136045,
+      "posted": "",
+      "title": "Deep Learning Compiler Engineer",
+      "job_id": "JR2020416",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Engineer_JR2020416"
+    },
+    "JR2023398": {
+      "first_seen": 1790949808.1360462,
+      "posted": "",
+      "title": "Architecture Energy Modeling Engineer - New College Grad 2026",
+      "job_id": "JR2023398",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398"
+    },
+    "JR2023397": {
+      "first_seen": 1790949808.1360462,
+      "posted": "",
+      "title": "Robotics Research Engineer - Robot Simulation and Evaluation",
+      "job_id": "JR2023397",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Research-Engineer---Robot-Simulation-and-Evaluation_JR2023397"
+    },
+    "JR2015175": {
+      "first_seen": 1790949808.136048,
+      "posted": "",
+      "title": "Photonic Mixed Signal Design Validation Engineer",
+      "job_id": "JR2015175",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Photonic-Mixed-Signal-Design-Validation-Engineer_JR2015175"
+    },
+    "JR2015189": {
+      "first_seen": 1790949808.136048,
+      "posted": "",
+      "title": "ASIC Design Engineer",
+      "job_id": "JR2015189",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer_JR2015189-1"
+    },
+    "JR2019190": {
+      "first_seen": 1790949808.1360488,
+      "posted": "",
+      "title": "Applied AI Engineer - VLSI Design",
+      "job_id": "JR2019190",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-AI-Engineer---VLSI-Design_JR2019190"
+    },
+    "JR2023468": {
+      "first_seen": 1790949808.1360488,
+      "posted": "",
+      "title": "Relational Foundation Model Engineer, Modern Data Stack",
+      "job_id": "JR2023468",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2023468"
+    },
+    "JR2023072": {
+      "first_seen": 1790949808.1360488,
+      "posted": "",
+      "title": "Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence",
+      "job_id": "JR2023072",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--C---and-CUDA---Analytics-and-Data-Intelligence_JR2023072-1"
+    },
+    "JR2017681": {
+      "first_seen": 1790949808.13605,
+      "posted": "",
+      "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026",
+      "job_id": "JR2017681",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681"
+    },
+    "JR2018660": {
+      "first_seen": 1790949808.136051,
+      "posted": "",
+      "title": "Systems Quality and Reliability Engineer - LPU",
+      "job_id": "JR2018660",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Quality-and-Reliability-Engineer---LPU_JR2018660"
+    },
+    "JR2021886": {
+      "first_seen": 1790949808.136052,
+      "posted": "",
+      "title": "Harness and Platform Engineer, AI Safety and Security Engineering",
+      "job_id": "JR2021886",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886"
+    },
+    "JR2023066": {
+      "first_seen": 1790949808.136052,
+      "posted": "",
+      "title": "Emulation Front-End Infrastructure Engineer",
+      "job_id": "JR2023066",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Emulation-Front-End-Infrastructure-Engineer_JR2023066"
+    },
+    "JR2022950": {
+      "first_seen": 1790949808.136053,
+      "posted": "",
+      "title": "EMC Engineer",
+      "job_id": "JR2022950",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/EMC-Engineer_JR2022950"
+    },
+    "JR2015943": {
+      "first_seen": 1790949808.136053,
+      "posted": "",
+      "title": "GPU Verification Engineer",
+      "job_id": "JR2015943",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer_JR2015943"
+    },
+    "JR2001798": {
+      "first_seen": 1790949808.136054,
+      "posted": "",
+      "title": "GPU Performance Profiling Engineer",
+      "job_id": "JR2001798",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/GPU-Performance-Profiling-Engineer_JR2001798-1"
+    },
+    "JR2020327": {
+      "first_seen": 1790949808.136054,
+      "posted": "",
+      "title": "Senior SoC Subsystem and I/O Architect - LPU",
+      "job_id": "JR2020327",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-SoC-Subsystem-and-I-O-Architect---LPU_JR2020327"
+    },
+    "JR2012859": {
+      "first_seen": 1790949808.136055,
+      "posted": "",
+      "title": "Raytracing Compiler Engineer - Developer and Performance Technology",
+      "job_id": "JR2012859",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Raytracing-Compiler-Engineer---Developer-and-Performance-Technology_JR2012859"
+    },
+    "JR2008448": {
+      "first_seen": 1790949808.136056,
+      "posted": "",
+      "title": "ASIC Verification Engineer",
+      "job_id": "JR2008448",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer_JR2008448"
+    },
+    "JR2021987": {
+      "first_seen": 1790949808.136056,
+      "posted": "",
+      "title": "Liquid-Cooling Specialist - Datacenter",
+      "job_id": "JR2021987",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Liquid-Cooling-Specialist---Datacenter_JR2021987"
+    },
+    "JR2015886": {
+      "first_seen": 1790949808.136058,
+      "posted": "",
+      "title": "System Software Engineer - GPU and SOC",
+      "job_id": "JR2015886",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-and-SOC_JR2015886"
+    },
+    "JR2019466": {
+      "first_seen": 1790949808.136058,
+      "posted": "",
+      "title": "Circuit Design Engineer - Standard Cell",
+      "job_id": "JR2019466",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer_JR2019466"
+    },
+    "JR2022612": {
+      "first_seen": 1790949808.1360588,
+      "posted": "",
+      "title": "System Software Engineer \u2013 Data Center Compute Diagnostics",
+      "job_id": "JR2022612",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/System-Software-Engineer---Data-Center-Compute-Diagnostics_JR2022612"
+    },
+    "JR2020825": {
+      "first_seen": 1790949808.1360588,
+      "posted": "",
+      "title": "Software Engineer, OpenShell",
+      "job_id": "JR2020825",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825"
+    },
+    "JR2022559": {
+      "first_seen": 1790949808.13606,
+      "posted": "",
+      "title": "Technical Marketing Engineer  - AI Platform Software",
+      "job_id": "JR2022559",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer----AI-Platform-Software_JR2022559"
+    },
+    "JR2022102": {
+      "first_seen": 1790949808.136062,
+      "posted": "",
+      "title": "GPU Verification Engineer - New College Grad 2026",
+      "job_id": "JR2022102",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102"
+    },
+    "JR2012554": {
+      "first_seen": 1790949808.136062,
+      "posted": "",
+      "title": "Senior I/O Subsystem Architect",
+      "job_id": "JR2012554",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-I-O-Subsystem-Architect_JR2012554"
+    },
+    "JR2013177": {
+      "first_seen": 1790949808.1360629,
+      "posted": "",
+      "title": "ASIC Physical Design and Timing Engineer - New College Grad 2026",
+      "job_id": "JR2013177",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177"
+    },
+    "JR2019330": {
+      "first_seen": 1790949808.1360629,
+      "posted": "",
+      "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
+      "job_id": "JR2019330",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330"
+    },
+    "JR2021841": {
+      "first_seen": 1790949808.136064,
+      "posted": "",
+      "title": "RTL Power Optimization Engineer \u2013 New College Grad 2026",
+      "job_id": "JR2021841",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841"
+    },
+    "JR1996377": {
+      "first_seen": 1790949808.136064,
+      "posted": "",
+      "title": "Networking Architect",
+      "job_id": "JR1996377",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Networking-Architect_JR1996377"
+    },
+    "JR2021671": {
+      "first_seen": 1790949808.136065,
+      "posted": "",
+      "title": "HPC Performance Engineer",
+      "job_id": "JR2021671",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Remote/HPC-Performance-Engineer_JR2021671"
+    },
+    "JR2021258": {
+      "first_seen": 1790949808.136065,
+      "posted": "",
+      "title": "Supplier Base Engineer \u2013 Liquid Cooling Contamination Control",
+      "job_id": "JR2021258",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Supplier-Base-Engineer---Liquid-Cooling-Contamination-Control_JR2021258"
+    },
+    "JR2021534": {
+      "first_seen": 1790949808.1360672,
+      "posted": "",
+      "title": "ASIC Design Engineer - New College Grad 2026",
+      "job_id": "JR2021534",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534"
+    },
+    "JR2020058": {
+      "first_seen": 1790949808.1360672,
+      "posted": "",
+      "title": "ATE and SLT Hardware Engineer",
+      "job_id": "JR2020058",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-and-SLT-Hardware-Engineer_JR2020058"
+    },
+    "JR2020309": {
+      "first_seen": 1790949808.136068,
+      "posted": "",
+      "title": "ASIC Design Engineer - New College Grad 2026",
+      "job_id": "JR2020309",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309"
+    },
+    "JR2013660": {
+      "first_seen": 1790949808.136068,
+      "posted": "",
+      "title": "CAD Engineer",
+      "job_id": "JR2013660",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CAD-Engineer_JR2013660"
+    },
+    "JR2020771": {
+      "first_seen": 1790949808.136069,
+      "posted": "",
+      "title": "Network Software Architect",
+      "job_id": "JR2020771",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Network-Software-Architect_JR2020771"
+    },
+    "JR2009389": {
+      "first_seen": 1790949808.136069,
+      "posted": "",
+      "title": "Senior C++ Software Engineer - Chip Design Tools",
+      "job_id": "JR2009389",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-C---Software-Engineer---Chip-Design-Tools_JR2009389"
+    },
+    "JR2020640": {
+      "first_seen": 1790949808.136069,
+      "posted": "",
+      "title": "ASIC Verification Engineer - New College Grad 2026",
+      "job_id": "JR2020640",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640"
+    },
+    "JR2020813": {
+      "first_seen": 1790949808.1360698,
+      "posted": "",
+      "title": "Hardware Design Validation Engineer - Memory Subsystem",
+      "job_id": "JR2020813",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem_JR2020813"
+    },
+    "JR2016197": {
+      "first_seen": 1790949808.1360698,
+      "posted": "",
+      "title": "System Software Engineer, GPU Development Tools",
+      "job_id": "JR2016197",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2016197"
+    },
+    "JR2020731": {
+      "first_seen": 1790949808.136071,
+      "posted": "",
+      "title": "Technical Marketing Engineer \u2014 CUDA-Q Developer Enablement",
+      "job_id": "JR2020731",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer---CUDA-Q-Developer-Enablement_JR2020731"
+    },
+    "JR2016209": {
+      "first_seen": 1790949808.136071,
+      "posted": "",
+      "title": "Offensive Hardware Security Researcher",
+      "job_id": "JR2016209",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Offensive-Hardware-Security-Researcher_JR2016209"
+    },
+    "JR2016865": {
+      "first_seen": 1790949808.136071,
+      "posted": "",
+      "title": "DFT Engineer - New College Grad",
+      "job_id": "JR2016865",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865"
+    },
+    "JR2019748": {
+      "first_seen": 1790949808.136072,
+      "posted": "",
+      "title": "Systems Architect",
+      "job_id": "JR2019748",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Architect_JR2019748"
+    },
+    "JR2018171": {
+      "first_seen": 1790949808.136072,
+      "posted": "",
+      "title": "ATE Test Development Engineer",
+      "job_id": "JR2018171",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Development-Engineer_JR2018171"
+    },
+    "JR2019821": {
+      "first_seen": 1790949808.1360729,
+      "posted": "",
+      "title": "High-Speed Interconnect Architect",
+      "job_id": "JR2019821",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-Interconnect-Architect_JR2019821"
+    },
+    "JR2019332": {
+      "first_seen": 1790949808.1360729,
+      "posted": "",
+      "title": "Software R&D Engineer, RTL Optimization Tools",
+      "job_id": "JR2019332",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--RTL-Optimization-Tools_JR2019332"
+    },
+    "JR2012573": {
+      "first_seen": 1790949808.136074,
+      "posted": "",
+      "title": "ASIC Verification Engineer - New College Grad 2026",
+      "job_id": "JR2012573",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573"
+    },
+    "JR2007081": {
+      "first_seen": 1790949808.136074,
+      "posted": "",
+      "title": "System Software Engineer - Tegra",
+      "job_id": "JR2007081",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Tegra_JR2007081"
+    },
+    "JR2018150": {
+      "first_seen": 1790949808.136075,
+      "posted": "",
+      "title": "Senior Digital Design Engineer - High-Speed I/O and Photonics",
+      "job_id": "JR2018150",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Digital-Design-Engineer---High-Speed-I-O-and-Photonics_JR2018150"
+    },
+    "JR2018659": {
+      "first_seen": 1790949808.136075,
+      "posted": "",
+      "title": "Software Engineer, Hardware Tools and Methodology - New College Grad 2026",
+      "job_id": "JR2018659",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
+    },
+    "JR2017005": {
+      "first_seen": 1790949808.136075,
+      "posted": "",
+      "title": "Low Power ASIC Engineer - New College Grad 2026",
+      "job_id": "JR2017005",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005"
+    },
+    "JR2018605": {
+      "first_seen": 1790949808.136076,
+      "posted": "",
+      "title": "Technical Marketing Engineer - Physical AI for Healthcare",
+      "job_id": "JR2018605",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer---Physical-AI-for-Healthcare_JR2018605"
+    },
+    "JR2012049": {
+      "first_seen": 1790949808.136076,
+      "posted": "",
+      "title": "Implementation Methodology Engineer",
+      "job_id": "JR2012049",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Implementation-Methodology-Engineer_JR2012049-1"
+    },
+    "JR2011872": {
+      "first_seen": 1790949808.136076,
+      "posted": "",
+      "title": "Implementation Methodology Engineer - GPU",
+      "job_id": "JR2011872",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Implementation-Methodology-Engineer---GPU_JR2011872"
+    },
+    "JR2018432": {
+      "first_seen": 1790949808.1360772,
+      "posted": "",
+      "title": "Lab Operations Site Supervisor",
+      "job_id": "JR2018432",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lab-Operations-Site-Supervisor_JR2018432"
+    },
+    "JR2010637": {
+      "first_seen": 1790949808.1360772,
+      "posted": "",
+      "title": "EDA Methodology Architect",
+      "job_id": "JR2010637",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/EDA-Methodology-Architect_JR2010637"
+    },
+    "JR2017486": {
+      "first_seen": 1790949808.1360772,
+      "posted": "",
+      "title": "Power Methodology and Modeling Engineer - New College Grad 2026",
+      "job_id": "JR2017486",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1"
+    },
+    "JR2016697": {
+      "first_seen": 1790949808.1360781,
+      "posted": "",
+      "title": "System Verification Engineer",
+      "job_id": "JR2016697",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Verification-Engineer_JR2016697-1"
+    },
+    "JR2015944": {
+      "first_seen": 1790949808.1360781,
+      "posted": "",
+      "title": "CPU Performance Architect",
+      "job_id": "JR2015944",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CPU-Performance-Architect_JR2015944-1"
+    },
+    "JR2015067": {
+      "first_seen": 1790949808.1360781,
+      "posted": "",
+      "title": "Signal and Power Integrity Engineer - New College Grad 2026",
+      "job_id": "JR2015067",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067"
+    },
+    "JR2014808": {
+      "first_seen": 1790949808.136079,
+      "posted": "",
+      "title": "Signal and Power Integrity Engineer",
+      "job_id": "JR2014808",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer_JR2014808"
+    },
+    "JR2008813": {
+      "first_seen": 1790949808.136079,
+      "posted": "",
+      "title": "Power Validation Engineer",
+      "job_id": "JR2008813",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Validation-Engineer_JR2008813-1"
+    },
+    "JR2013338": {
+      "first_seen": 1790949808.136079,
+      "posted": "",
+      "title": "Mixed Signal Design Validation Engineer",
+      "job_id": "JR2013338",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Validation-Engineer_JR2013338"
+    },
+    "JR2013428": {
+      "first_seen": 1790949808.1360798,
+      "posted": "",
+      "title": "Neural Graphics Engineer",
+      "job_id": "JR2013428",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Neural-Graphics-Engineer_JR2013428"
+    },
+    "JR2012435": {
+      "first_seen": 1790949808.1360798,
+      "posted": "",
+      "title": "Platform Architecture Engineer, GeForce NOW",
+      "job_id": "JR2012435",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Architecture-Engineer--GeForce-NOW_JR2012435"
+    },
+    "JR2002351": {
+      "first_seen": 1790949808.136081,
+      "posted": "",
+      "title": "Datacenter Partner Enablement Engineer",
+      "job_id": "JR2002351",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Datacenter-Partner-Enablement-Engineer_JR2002351"
+    },
+    "JR2010391": {
+      "first_seen": 1790949808.136081,
+      "posted": "",
+      "title": "ASIC Design Verification Engineer - New College Grad 2026",
+      "job_id": "JR2010391",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391"
+    },
+    "JR2002546": {
+      "first_seen": 1790949808.136082,
+      "posted": "",
+      "title": "Systems Validation Engineer",
+      "job_id": "JR2002546",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Validation-Engineer_JR2002546"
+    },
+    "JR1992618": {
+      "first_seen": 1790949808.136082,
+      "posted": "",
+      "title": "Datacenter GPU Power Architect",
+      "job_id": "JR1992618",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-GPU-Power-Architect_JR1992618"
+    },
+    "JR1992092": {
+      "first_seen": 1790949808.136082,
+      "posted": "",
+      "title": "Manager, Digital Design - Mixed-Signal High-Speed I/O SerDes",
+      "job_id": "JR1992092",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Digital-Design---Mixed-Signal-High-Speed-I-O-SerDes_JR1992092"
+    }
+  }
+}

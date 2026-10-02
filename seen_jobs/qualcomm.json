@@ -1,0 +1,309 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "qualcomm"
+  },
+  "jobs": {
+    "3097077": {
+      "first_seen": 1790949853.55777,
+      "posted": "2026-09-30",
+      "title": "#Windows Performance Engineer",
+      "job_id": "3097077",
+      "url": "https://careers.qualcomm.com/careers/job/446721299348"
+    },
+    "3097342": {
+      "first_seen": 1790949853.557772,
+      "posted": "2026-09-30",
+      "title": "#Embedded Software Engineer",
+      "job_id": "3097342",
+      "url": "https://careers.qualcomm.com/careers/job/446721342586"
+    },
+    "3097359": {
+      "first_seen": 1790949853.557773,
+      "posted": "2026-09-30",
+      "title": "#Software Engineer",
+      "job_id": "3097359",
+      "url": "https://careers.qualcomm.com/careers/job/446721345937"
+    },
+    "3097084": {
+      "first_seen": 1790949853.557774,
+      "posted": "2026-09-30",
+      "title": "Senior Software Engineer - Linux / Android Telephony",
+      "job_id": "3097084",
+      "url": "https://careers.qualcomm.com/careers/job/446721233079"
+    },
+    "3095975": {
+      "first_seen": 1790949853.557775,
+      "posted": "2026-09-28",
+      "title": "Principal / Dir / Sr. Director - Mobile Handset Products",
+      "job_id": "3095975",
+      "url": "https://careers.qualcomm.com/careers/job/446721033949"
+    },
+    "3096358": {
+      "first_seen": 1790949853.557776,
+      "posted": "2026-09-23",
+      "title": "Platform Software Architect",
+      "job_id": "3096358",
+      "url": "https://careers.qualcomm.com/careers/job/446721059143"
+    },
+    "3097082": {
+      "first_seen": 1790949853.5577831,
+      "posted": "2026-09-23",
+      "title": "#Software Engineer",
+      "job_id": "3097082",
+      "url": "https://careers.qualcomm.com/careers/job/446721232996"
+    },
+    "3097083": {
+      "first_seen": 1790949853.557784,
+      "posted": "2026-09-23",
+      "title": "#Software Engineer",
+      "job_id": "3097083",
+      "url": "https://careers.qualcomm.com/careers/job/446721233027"
+    },
+    "3096848": {
+      "first_seen": 1790949853.557785,
+      "posted": "2026-09-23",
+      "title": "#Automotive Experience Platform - Engineer",
+      "job_id": "3096848",
+      "url": "https://careers.qualcomm.com/careers/job/446721162864"
+    },
+    "3097024": {
+      "first_seen": 1790949853.557785,
+      "posted": "2026-09-22",
+      "title": "#System Software Engineer - Power",
+      "job_id": "3097024",
+      "url": "https://careers.qualcomm.com/careers/job/446721217993"
+    },
+    "3096147": {
+      "first_seen": 1790949853.5577862,
+      "posted": "2026-09-21",
+      "title": "#Software Engineer",
+      "job_id": "3096147",
+      "url": "https://careers.qualcomm.com/careers/job/446721041627"
+    },
+    "3096819": {
+      "first_seen": 1790949853.557787,
+      "posted": "2026-09-21",
+      "title": "#Backend Software Engineer",
+      "job_id": "3096819",
+      "url": "https://careers.qualcomm.com/careers/job/446721162271"
+    },
+    "3093349": {
+      "first_seen": 1790949853.557788,
+      "posted": "2026-09-21",
+      "title": "#Software Engineer - Power and Limits Management",
+      "job_id": "3093349",
+      "url": "https://careers.qualcomm.com/careers/job/446719426158"
+    },
+    "3096862": {
+      "first_seen": 1790949853.557788,
+      "posted": "2026-09-18",
+      "title": "Embedded Software Engineer",
+      "job_id": "3096862",
+      "url": "https://careers.qualcomm.com/careers/job/446721159112"
+    },
+    "3096860": {
+      "first_seen": 1790949853.5577888,
+      "posted": "2026-09-18",
+      "title": "Embedded Software Engineer",
+      "job_id": "3096860",
+      "url": "https://careers.qualcomm.com/careers/job/446721159119"
+    },
+    "3093965": {
+      "first_seen": 1790949853.55779,
+      "posted": "2026-09-18",
+      "title": "#Display Software Engineer",
+      "job_id": "3093965",
+      "url": "https://careers.qualcomm.com/careers/job/446719744706"
+    },
+    "3096846": {
+      "first_seen": 1790949853.55779,
+      "posted": "2026-09-18",
+      "title": "PE Software Engineer",
+      "job_id": "3096846",
+      "url": "https://careers.qualcomm.com/careers/job/446721155295"
+    },
+    "3095528": {
+      "first_seen": 1790949853.557791,
+      "posted": "2026-09-17",
+      "title": "#Windows Driver Developer",
+      "job_id": "3095528",
+      "url": "https://careers.qualcomm.com/careers/job/446720806622"
+    },
+    "3087119": {
+      "first_seen": 1790949853.557792,
+      "posted": "2026-09-17",
+      "title": "#Embedded Software Engineer",
+      "job_id": "3087119",
+      "url": "https://careers.qualcomm.com/careers/job/446717134102"
+    },
+    "3092850": {
+      "first_seen": 1790949853.557792,
+      "posted": "2026-09-17",
+      "title": "QGOV Security Software Engineer",
+      "job_id": "3092850",
+      "url": "https://careers.qualcomm.com/careers/job/446719119990"
+    },
+    "3096421": {
+      "first_seen": 1790949853.5577931,
+      "posted": "2026-09-17",
+      "title": "#Windows Audio Software Engineer (Voice AI) \u2014 Engineer",
+      "job_id": "3096421",
+      "url": "https://careers.qualcomm.com/careers/job/446721046499"
+    },
+    "3095259": {
+      "first_seen": 1790949853.5577931,
+      "posted": "2026-09-17",
+      "title": "ARM Server Platform I/O & Interconnect Software Architect (PCIe, CXL & Interrupt Architecture)",
+      "job_id": "3095259",
+      "url": "https://careers.qualcomm.com/careers/job/446720417490"
+    },
+    "3096133": {
+      "first_seen": 1790949853.557795,
+      "posted": "2026-09-17",
+      "title": "#Engineer",
+      "job_id": "3096133",
+      "url": "https://careers.qualcomm.com/careers/job/446720993760"
+    },
+    "3092573": {
+      "first_seen": 1790949853.557795,
+      "posted": "2026-09-17",
+      "title": "#Embedded Software Engineer \u2013 Device Driver Development",
+      "job_id": "3092573",
+      "url": "https://careers.qualcomm.com/careers/job/446718891829"
+    },
+    "3096622": {
+      "first_seen": 1790949853.557796,
+      "posted": "2026-09-17",
+      "title": "Software Development Engineer",
+      "job_id": "3096622",
+      "url": "https://careers.qualcomm.com/careers/job/446721106667"
+    },
+    "3094902": {
+      "first_seen": 1790949853.557796,
+      "posted": "2026-09-17",
+      "title": "Linux Peripheral Software Engineer",
+      "job_id": "3094902",
+      "url": "https://careers.qualcomm.com/careers/job/446720280499"
+    },
+    "3094904": {
+      "first_seen": 1790949853.557796,
+      "posted": "2026-09-17",
+      "title": "#Software Engineer - Edge AI/Gen AI",
+      "job_id": "3094904",
+      "url": "https://careers.qualcomm.com/careers/job/446720282038"
+    },
+    "3088649": {
+      "first_seen": 1790949853.5577972,
+      "posted": "2026-09-17",
+      "title": "Enablement Software Engineer",
+      "job_id": "3088649",
+      "url": "https://careers.qualcomm.com/careers/job/446717707980"
+    },
+    "3087732": {
+      "first_seen": 1790949853.5577972,
+      "posted": "2026-09-17",
+      "title": "IOT Software Engineer",
+      "job_id": "3087732",
+      "url": "https://careers.qualcomm.com/careers/job/446717394529"
+    },
+    "3093254": {
+      "first_seen": 1790949853.557798,
+      "posted": "2026-09-17",
+      "title": "Gen AI Transformation Engineer \u2013 Embedded Software & Engineering Productivity",
+      "job_id": "3093254",
+      "url": "https://careers.qualcomm.com/careers/job/446719461914"
+    },
+    "3091814": {
+      "first_seen": 1790949853.557798,
+      "posted": "2026-09-17",
+      "title": "QGOV Security Software Engineer",
+      "job_id": "3091814",
+      "url": "https://careers.qualcomm.com/careers/job/446718664836"
+    },
+    "3091815": {
+      "first_seen": 1790949853.5577989,
+      "posted": "2026-09-17",
+      "title": "QGOV Security Software Engineer",
+      "job_id": "3091815",
+      "url": "https://careers.qualcomm.com/careers/job/446718664837"
+    },
+    "3091813": {
+      "first_seen": 1790949853.5577989,
+      "posted": "2026-09-17",
+      "title": "QGOV Security Software Engineer",
+      "job_id": "3091813",
+      "url": "https://careers.qualcomm.com/careers/job/446718664838"
+    },
+    "3095527": {
+      "first_seen": 1790949853.5578,
+      "posted": "2026-09-17",
+      "title": "#Windows Driver Developer",
+      "job_id": "3095527",
+      "url": "https://careers.qualcomm.com/careers/job/446720806929"
+    },
+    "3094723": {
+      "first_seen": 1790949853.557801,
+      "posted": "2026-09-17",
+      "title": "#AI Infrastructure Software Engineer",
+      "job_id": "3094723",
+      "url": "https://careers.qualcomm.com/careers/job/446720212566"
+    },
+    "3093668": {
+      "first_seen": 1790949853.557801,
+      "posted": "2026-09-17",
+      "title": "#Agentic AI Windows Power and Thermal Engineer",
+      "job_id": "3093668",
+      "url": "https://careers.qualcomm.com/careers/job/446719591126"
+    },
+    "3093739": {
+      "first_seen": 1790949853.557802,
+      "posted": "2026-09-17",
+      "title": "VP, Engineering - Data Center CPU Software",
+      "job_id": "3093739",
+      "url": "https://careers.qualcomm.com/careers/job/446719669621"
+    },
+    "3092196": {
+      "first_seen": 1790949853.557802,
+      "posted": "2026-09-17",
+      "title": "#Platform SW Engineer, Automotive",
+      "job_id": "3092196",
+      "url": "https://careers.qualcomm.com/careers/job/446718852057"
+    },
+    "3094389": {
+      "first_seen": 1790949853.557803,
+      "posted": "2026-09-17",
+      "title": "BizAI Tech Functional Engineer",
+      "job_id": "3094389",
+      "url": "https://careers.qualcomm.com/careers/job/446720343659"
+    },
+    "3094236": {
+      "first_seen": 1790949853.557803,
+      "posted": "2026-09-17",
+      "title": "#Embedded Software Engineer - Video Technology",
+      "job_id": "3094236",
+      "url": "https://careers.qualcomm.com/careers/job/446720174471"
+    },
+    "3095245": {
+      "first_seen": 1790949853.557804,
+      "posted": "2026-08-13",
+      "title": "RISC-V Software Engineer",
+      "job_id": "3095245",
+      "url": "https://careers.qualcomm.com/careers/job/446720415661"
+    },
+    "3092927": {
+      "first_seen": 1790949853.557804,
+      "posted": "2026-06-20",
+      "title": "Software Virtual Platform/Simulation Sr. Engineer",
+      "job_id": "3092927",
+      "url": "https://careers.qualcomm.com/careers/job/446719129022"
+    },
+    "3091137": {
+      "first_seen": 1790949853.557805,
+      "posted": "2026-05-07",
+      "title": "Senior Software Engineer \u2013 Edge AI/GenAI & Multimedia",
+      "job_id": "3091137",
+      "url": "https://careers.qualcomm.com/careers/job/446718450778"
+    }
+  }
+}

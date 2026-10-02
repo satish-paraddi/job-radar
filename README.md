@@ -7,13 +7,13 @@ A fully automated job-board monitor that scrapes career pages across 10 major te
 
 ## Features
 
-- **10 companies out of the box** — Amazon, Apple, CVS Health (two adapters), Goldman Sachs, Google, Lyft, Meta, Salesforce, and Uber
+- **19 companies out of the box** — Adobe, Amazon, Apple, Capital One, CVS Health (two adapters), DoorDash, Goldman Sachs, Google, Lyft, Meta, Microsoft, NVIDIA, PayPal, Qualcomm, Salesforce, ServiceNow, Stripe, and Uber
 - **Headless browser scraping** — Playwright + Chromium handles JS-heavy career pages and interactive pagination without brittle DOM hacks
 - **Smart deduplication** — each company keeps its own `seen_jobs/<slug>.json` state file; jobs are tracked by stable ID so alerts never repeat
 - **Real-time Telegram alerts** — richly-formatted notifications include title, team, location, post date, role ID, and a direct link to apply
 - **Two scrape modes** — a fast *regular* scrape that alerts on new-since-last-run jobs, and a *full scrape* that seeds the seen-jobs state without sending alerts
 - **Title filtering** — configurable keyword and phrase blocklists per company strip intern/contract roles you don't care about
-- **Plug-in adapter architecture** — adding a new company is a single file that implements `CompanyDefinition`; no core code changes required
+- **Plug-in adapter architecture** — adding a new company is a single file that implements `CompanyDefinition`; companies on Workday, Greenhouse, SmartRecruiters or Eightfold need only a few lines of config (see `companies/adapters/`)
 - **GitHub Actions CI/CD** — both workflows commit updated state back to the repo, cache the Playwright browser binary, and handle concurrent run conflicts with `git pull --rebase`
 
 ## Supported Companies
@@ -30,6 +30,14 @@ A fully automated job-board monitor that scrapes career pages across 10 major te
 | `microsoft` | Microsoft | Eightfold public API (`/api/pcsx/search`) |
 | `salesforce` | Salesforce | Workday adapter |
 | `uber` | Uber | jobs.uber.com API (`/api/jobs/search/`, via browser session) |
+| `adobe` | Adobe | Workday API adapter |
+| `capital-one` | Capital One | Workday API adapter |
+| `doordash` | DoorDash | Greenhouse API adapter |
+| `nvidia` | NVIDIA | Workday API adapter |
+| `paypal` | PayPal | Eightfold API adapter |
+| `qualcomm` | Qualcomm | Eightfold API adapter |
+| `servicenow` | ServiceNow | SmartRecruiters API adapter |
+| `stripe` | Stripe | Greenhouse API adapter |
 
 ## How It Works
 
@@ -113,7 +121,8 @@ That's it — the scraper, state manager, and notifier pick it up automatically.
 
 ```
 faang-jobs-notifier/
-├── companies/          # One adapter file per company + shared base + registry
+├── companies/          # One file per company + shared base + registry
+│   └── adapters/       # Reusable Workday / Greenhouse / SmartRecruiters / Eightfold scrapers
 ├── seen_jobs/          # Persisted job-ID state, one JSON file per company
 ├── scraper.py          # Entry point: incremental scrape + Telegram alerts
 ├── full_scrape.py      # Entry point: seed seen_jobs without sending alerts

@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "doordash"
+  },
+  "jobs": {
+    "8225722": {
+      "first_seen": 1790949810.1284962,
+      "posted": "2026-09-23",
+      "title": "Autonomy Platform Engineer",
+      "job_id": "8225722",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8225722"
+    },
+    "7685075": {
+      "first_seen": 1790949810.1284978,
+      "posted": "2026-03-06",
+      "title": "Electrical Engineer - Consumer Electronics",
+      "job_id": "7685075",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7685075"
+    },
+    "8103352": {
+      "first_seen": 1790949810.1284978,
+      "posted": "2026-08-04",
+      "title": "Electrical Engineer - DoorDash Air",
+      "job_id": "8103352",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8103352"
+    },
+    "7729872": {
+      "first_seen": 1790949810.1284978,
+      "posted": "2026-03-17",
+      "title": "Electrical Engineer - DoorDash Dot",
+      "job_id": "7729872",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7729872"
+    },
+    "8122134": {
+      "first_seen": 1790949810.128499,
+      "posted": "2026-08-11",
+      "title": "Embedded Software Engineer (Firmware) - DoorDash Air",
+      "job_id": "8122134",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122134"
+    },
+    "7456678": {
+      "first_seen": 1790949810.128499,
+      "posted": "2025-12-09",
+      "title": "Engineering Manager, Merchant, AI/ML",
+      "job_id": "7456678",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7456678"
+    },
+    "8010514": {
+      "first_seen": 1790949810.1285,
+      "posted": "2026-06-17",
+      "title": "Firmware Validation & Integration Engineer",
+      "job_id": "8010514",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8010514"
+    },
+    "8082005": {
+      "first_seen": 1790949810.1285,
+      "posted": "2026-07-23",
+      "title": "Flight Test Engineer, DoorDash Air",
+      "job_id": "8082005",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8082005"
+    },
+    "8196479": {
+      "first_seen": 1790949810.1285,
+      "posted": "2026-09-11",
+      "title": "Hardware Engineer -  Electronics Packaging & Vehicle Integration",
+      "job_id": "8196479",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8196479"
+    },
+    "7947260": {
+      "first_seen": 1790949810.128501,
+      "posted": "2026-05-21",
+      "title": "Hardware Integration Engineer, DoorDash Air",
+      "job_id": "7947260",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7947260"
+    },
+    "7272947": {
+      "first_seen": 1790949810.128501,
+      "posted": "2025-09-23",
+      "title": "Hardware Prototype Engineering Technician - DoorDash Air",
+      "job_id": "7272947",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7272947"
+    },
+    "8156042": {
+      "first_seen": 1790949810.1285021,
+      "posted": "2026-08-25",
+      "title": "Hardware Systems Engineer",
+      "job_id": "8156042",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8156042"
+    },
+    "8067222": {
+      "first_seen": 1790949810.1285021,
+      "posted": "2026-07-15",
+      "title": "Layout Engineer - Labs, DoorDash Air",
+      "job_id": "8067222",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8067222"
+    },
+    "8113186": {
+      "first_seen": 1790949810.1285021,
+      "posted": "2026-08-06",
+      "title": "Machine Learning Engineer, Drive",
+      "job_id": "8113186",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8113186"
+    },
+    "7580407": {
+      "first_seen": 1790949810.128504,
+      "posted": "2026-01-30",
+      "title": "Machine Learning Engineer, Marketplace Optimization",
+      "job_id": "7580407",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7580407"
+    },
+    "7490108": {
+      "first_seen": 1790949810.128504,
+      "posted": "2025-12-22",
+      "title": "Manufacturing Quality Engineer - DoorDash Dot",
+      "job_id": "7490108",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7490108"
+    },
+    "8125396": {
+      "first_seen": 1790949810.128504,
+      "posted": "2026-08-12",
+      "title": "PCB Layout Engineer - DoorDash Dot",
+      "job_id": "8125396",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8125396"
+    },
+    "8046467": {
+      "first_seen": 1790949810.128505,
+      "posted": "2026-07-07",
+      "title": "Radio Frequency Hardware Engineer - DoorDash Air",
+      "job_id": "8046467",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8046467"
+    },
+    "8017150": {
+      "first_seen": 1790949810.128505,
+      "posted": "2026-06-22",
+      "title": "Reliability Test Engineer, DoorDash Air",
+      "job_id": "8017150",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8017150"
+    },
+    "6682078": {
+      "first_seen": 1790949810.128505,
+      "posted": "2025-03-05",
+      "title": "Robotics Software Engineer - Labs, DoorDash Air",
+      "job_id": "6682078",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6682078"
+    },
+    "8125398": {
+      "first_seen": 1790949810.1285062,
+      "posted": "2026-08-12",
+      "title": "Senior Mixed-Signal / Analog Hardware Engineer - DoorDash Dot",
+      "job_id": "8125398",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8125398"
+    },
+    "8212984": {
+      "first_seen": 1790949810.1285062,
+      "posted": "2026-09-18",
+      "title": "Software Engineer",
+      "job_id": "8212984",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8212984"
+    },
+    "5630438": {
+      "first_seen": 1790949810.128507,
+      "posted": "2024-06-10",
+      "title": "Software Engineer, Android (All Teams)",
+      "job_id": "5630438",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5630438"
+    },
+    "5630445": {
+      "first_seen": 1790949810.128507,
+      "posted": "2024-05-22",
+      "title": "Software Engineer, Backend (All Teams)",
+      "job_id": "5630445",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445"
+    },
+    "8224641": {
+      "first_seen": 1790949810.128507,
+      "posted": "2026-09-22",
+      "title": "Software Engineer, Backend - Autonomous Delivery Platform",
+      "job_id": "8224641",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8224641"
+    },
+    "6599474": {
+      "first_seen": 1790949810.1285079,
+      "posted": "2025-02-03",
+      "title": "Software Engineer, Backend - DoorDash Air",
+      "job_id": "6599474",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6599474"
+    },
+    "8180903": {
+      "first_seen": 1790949810.1285079,
+      "posted": "2026-09-09",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "job_id": "8180903",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8180903"
+    },
+    "8202736": {
+      "first_seen": 1790949810.1285079,
+      "posted": "2026-09-15",
+      "title": "Software Engineer, Code Quality",
+      "job_id": "8202736",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8202736"
+    },
+    "8171620": {
+      "first_seen": 1790949810.128509,
+      "posted": "2026-09-01",
+      "title": "Software Engineer, Data and AI Platform",
+      "job_id": "8171620",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171620"
+    },
+    "7577073": {
+      "first_seen": 1790949810.128509,
+      "posted": "2026-01-29",
+      "title": "Software Engineer, Data Platform (All Teams)",
+      "job_id": "7577073",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7577073"
+    },
+    "8197854": {
+      "first_seen": 1790949810.128509,
+      "posted": "2026-09-11",
+      "title": "Software Engineer - Developer Experience, Web",
+      "job_id": "8197854",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8197854"
+    },
+    "8207877": {
+      "first_seen": 1790949810.12851,
+      "posted": "2026-09-16",
+      "title": "Software Engineer, Full Stack - Developer Insights",
+      "job_id": "8207877",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8207877"
+    },
+    "8236946": {
+      "first_seen": 1790949810.12851,
+      "posted": "2026-09-28",
+      "title": "Software Engineer, Full Stack - Experimentation Platform",
+      "job_id": "8236946",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8236946"
+    },
+    "8163709": {
+      "first_seen": 1790949810.12851,
+      "posted": "2026-09-04",
+      "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "job_id": "8163709",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+    },
+    "6458514": {
+      "first_seen": 1790949810.12851,
+      "posted": "2024-12-09",
+      "title": "Software Engineer II, Data Engineering",
+      "job_id": "6458514",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6458514"
+    },
+    "8171041": {
+      "first_seen": 1790949810.128511,
+      "posted": "2026-09-14",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "job_id": "8171041",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
+    },
+    "5630454": {
+      "first_seen": 1790949810.128511,
+      "posted": "2024-06-10",
+      "title": "Software Engineer, iOS (All Teams)",
+      "job_id": "5630454",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5630454"
+    },
+    "5635021": {
+      "first_seen": 1790949810.128511,
+      "posted": "2026-09-30",
+      "title": "Software Engineer, Machine Learning (All Levels / All Teams)",
+      "job_id": "5635021",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5635021"
+    },
+    "8013249": {
+      "first_seen": 1790949810.128512,
+      "posted": "2026-06-17",
+      "title": "Software Engineer, Machine Learning Infrastructure - Generative AI",
+      "job_id": "8013249",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8013249"
+    },
+    "8046982": {
+      "first_seen": 1790949810.128512,
+      "posted": "2026-07-07",
+      "title": "Software Engineer, Planning & Controls - Autonomy & Robotics, DoorDash Air",
+      "job_id": "8046982",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8046982"
+    },
+    "8046909": {
+      "first_seen": 1790949810.128512,
+      "posted": "2026-07-07",
+      "title": "Software Engineer, Robotics Infrastructure - Autonomy & Robotics, DoorDash Air",
+      "job_id": "8046909",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8046909"
+    },
+    "8044370": {
+      "first_seen": 1790949810.128512,
+      "posted": "2026-07-02",
+      "title": "Software Engineer, Spark Platform",
+      "job_id": "8044370",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8044370"
+    },
+    "8024644": {
+      "first_seen": 1790949810.128513,
+      "posted": "2026-06-24",
+      "title": "Software Engineer, Storage",
+      "job_id": "8024644",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8024644"
+    },
+    "8191134": {
+      "first_seen": 1790949810.128513,
+      "posted": "2026-09-10",
+      "title": "Software Engineer, Storage - Distributed Caching",
+      "job_id": "8191134",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8191134"
+    },
+    "8213968": {
+      "first_seen": 1790949810.128514,
+      "posted": "2026-09-18",
+      "title": "Technical Sourcer, Engineering",
+      "job_id": "8213968",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8213968"
+    },
+    "7767373": {
+      "first_seen": 1790949810.128514,
+      "posted": "2026-03-30",
+      "title": "UX Design Engineer, Content Tooling",
+      "job_id": "7767373",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7767373"
+    }
+  }
+}

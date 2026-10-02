@@ -8,6 +8,8 @@ from microsoft_parser import RESULTS_PER_PAGE, get_total_pages, get_total_result
 MICROSOFT_CAREERS_BASE_URL = "https://apply.careers.microsoft.com"
 MICROSOFT_CAREERS_PAGE_URL = f"{MICROSOFT_CAREERS_BASE_URL}/careers?domain=microsoft.com"
 MICROSOFT_API_URL = f"{MICROSOFT_CAREERS_BASE_URL}/api/pcsx/search"
+# No filter_seniority: ~20% of postings have no seniority tag and a seniority filter
+# silently drops them. Senior roles are removed by EXCLUDED_ROLE_KEYWORDS instead.
 MICROSOFT_SEARCH_URL = (
     f"{MICROSOFT_API_URL}"
     "?domain=microsoft.com"
@@ -15,8 +17,6 @@ MICROSOFT_SEARCH_URL = (
     "&location=United%20States"
     "&sort_by=timestamp"
     "&filter_career_discipline=Software%20Engineering"
-    "&filter_seniority=Entry"
-    "&filter_seniority=Mid-Level"
     "&start=0"
 )
 
@@ -82,8 +82,9 @@ COMPANY = CompanyDefinition(
     display_name="Microsoft",
     default_search_url=MICROSOFT_SEARCH_URL,
     # Results are sorted newest first, so regular runs only need the first few pages.
-    default_max_pages=3,
-    default_full_scrape_max_pages=30,
+    # Senior postings now share the result set, so check a few more pages per run.
+    default_max_pages=5,
+    default_full_scrape_max_pages=40,
     wait_selectors=(),
     build_search_url=build_search_url,
     parse_jobs=parse_jobs,

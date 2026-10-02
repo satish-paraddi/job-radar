@@ -8,7 +8,7 @@ on:
       companies:
         description: Comma-separated company slugs to scrape
         required: false
-        default: amazon,apple,google,meta,lyft,salesforce,goldman-sachs,cvs,cvs_wd,uber,microsoft
+        default: amazon,apple,google,meta,lyft,salesforce,goldman-sachs,cvs,cvs_wd,uber,microsoft,stripe,paypal,nvidia,servicenow,doordash,capital-one,qualcomm,adobe
 
 permissions:
   contents: write
@@ -52,7 +52,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          COMPANIES: ${{ inputs.companies || 'amazon,apple,google,meta,lyft,salesforce,goldman-sachs,cvs,cvs_wd,uber,microsoft' }}
+          COMPANIES: ${{ inputs.companies || 'amazon,apple,google,meta,lyft,salesforce,goldman-sachs,cvs,cvs_wd,uber,microsoft,stripe,paypal,nvidia,servicenow,doordash,capital-one,qualcomm,adobe' }}
         run: python scraper.py
 
       - name: Upload scraper diagnostics
