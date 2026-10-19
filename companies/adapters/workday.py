@@ -14,6 +14,11 @@ from companies.adapters.common import (
 from companies.base import CompanyDefinition
 
 PAGE_SIZE = 20  # Workday rejects larger page sizes with HTTP 400.
+# Some tenants (e.g. Salesforce) answer intermittent 429s to back-to-back requests;
+# they clear within seconds, so space requests out and retry with backoff.
+DEFAULT_REQUEST_DELAY_MS = 1500
+MAX_ATTEMPTS = 4
+RETRY_BACKOFF_MS = 4000
 _JOB_ID_RE = re.compile(r"_([A-Z]*R?\d[\w-]*)$")
 
 
@@ -27,6 +32,7 @@ def make_workday_company(
     applied_facets: dict[str, list[str]],
     default_max_pages: int = 3,
     default_full_scrape_max_pages: int = 50,
+    request_delay_ms: int = DEFAULT_REQUEST_DELAY_MS,
     excluded_role_keywords: tuple[str, ...] = DEFAULT_EXCLUDED_ROLE_KEYWORDS,
     excluded_title_phrases: tuple[str, ...] = DEFAULT_EXCLUDED_TITLE_PHRASES,
 ) -> CompanyDefinition:
@@ -43,17 +49,23 @@ def make_workday_company(
     async def fetch_page_html(page, runtime_config, url: str) -> str:
         offset = int(dict(parse_qsl(urlsplit(url).query)).get("offset", "0"))
         print(f"[{runtime_config.slug}] Loading Workday API: {api_url} (offset {offset})")
-        response = await page.context.request.post(
-            api_url,
-            headers={"accept": "application/json", "content-type": "application/json"},
-            data=json.dumps(
-                {"appliedFacets": applied_facets, "limit": PAGE_SIZE, "offset": offset, "searchText": ""}
-            ),
-            timeout=30000,
-        )
-        if not response.ok:
+        body = json.dumps({"appliedFacets": applied_facets, "limit": PAGE_SIZE, "offset": offset, "searchText": ""})
+        for attempt in range(1, MAX_ATTEMPTS + 1):
+            response = await page.context.request.post(
+                api_url,
+                headers={"accept": "application/json", "content-type": "application/json"},
+                data=body,
+                timeout=30000,
+            )
+            if response.ok:
+                await page.wait_for_timeout(request_delay_ms)
+                return await response.text()
+            if response.status == 429 and attempt < MAX_ATTEMPTS:
+                print(f"[{runtime_config.slug}] Rate limited (429), retrying in {RETRY_BACKOFF_MS * attempt // 1000}s...")
+                await page.wait_for_timeout(RETRY_BACKOFF_MS * attempt)
+                continue
             raise RuntimeError(f"{display_name} Workday API request failed with status {response.status}")
-        return await response.text()
+        raise RuntimeError(f"{display_name} Workday API request failed")
 
     def parse_jobs(payload: str) -> list[dict]:
         data = load_json(payload) or {}
