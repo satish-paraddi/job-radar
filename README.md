@@ -23,7 +23,7 @@ A fully automated job-board monitor that scrapes career pages across 10 major te
 | `amazon` | Amazon | HTML parser |
 | `apple` | Apple | HTML parser |
 | `cvs` | CVS Health | HTML parser |
-| `goldman-sachs` | Goldman Sachs | HTML parser |
+| `goldman-sachs` | Goldman Sachs | GraphQL API (`roleSearch`) |
 | `google` | Google | `AF_initDataCallback` JSON payload |
 | `lyft` | Lyft | CareerPuck public API |
 | `meta` | Meta | GraphQL (`job_search_with_featured_jobs`) |
